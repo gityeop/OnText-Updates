@@ -3,23 +3,23 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.0.1</title>
-            <pubDate>Mon, 08 Dec 2025 16:40:36 +0000</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>Version 1.0.2</title>
+            <pubDate>Mon, 08 Dec 2025 19:00:52 +0000</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <description>
                 <![CDATA[
-                <h2>OnText 1.0.1 Update</h2>
+                <h2>OnText 1.0.2 Update</h2>
                 <ul>
-                    <li>Release version 1.0.1</li>
+                    <li>Release version 1.0.2</li>
                 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.0.1.zip" 
-                sparkle:version="1.0.1" 
-                sparkle:shortVersionString="1.0.1" 
-                sparkle:edSignature="sparkle:edSignature="Dg+qfrUSKMk8LFFV2ntW+pnsJ+mbPZft2XD55pXdvqa3obiwj2/3ZU+ODKM7P4XcR6XAflIiOuoBCz+Bef8eCw==" length="63969009""
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.0.2.zip" 
+                sparkle:version="1.0.2" 
+                sparkle:shortVersionString="1.0.2" 
+                sparkle:edSignature="sparkle:edSignature="jcjPCdyIktrQ4kjoU6NiY7xgCX9qs8wkGqMFPLPwUIxeV1VQstz5bemCxC9JwRBv8EKeMCiBOnu0uhMTE3SGDQ==" length="66773718""
                 type="application/octet-stream" />
         </item>
     </channel>
