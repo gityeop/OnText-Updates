@@ -3,7 +3,35 @@
     <channel>
         <title>OnText Changelog</title>
         
-        <!-- Version 1.4.1 - Latest -->
+        <!-- Version 1.4.2 - Latest -->
+        <item>
+            <title>Version 1.4.2</title>
+            <pubDate>Mon, 09 Dec 2024 13:28:00 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>OnText 1.4.2 Update - Critical Fix</h2>
+                <ul>
+                    <li>🔧 <strong>Fixed: Update window not appearing on first click</strong></li>
+                    <li>✨ Update window now always appears in front</li>
+                    <li>🎯 Added NSApp.activate before showing update UI</li>
+                    <li>📱 Critical fix for Menu Bar (Accessory) apps</li>
+                    <li>⚡ No more "double-click to see update" issue</li>
+                </ul>
+                <p><em>Update window now reliably appears immediately!</em></p>
+                ]]>
+            </description>
+            <enclosure 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.4.2.zip" 
+                sparkle:version="25" 
+                sparkle:shortVersionString="1.4.2" 
+                sparkle:edSignature="LO29+nGiIUTXJO2Of9qgMgZlSbM3vFCOfg+QAD3068bdlPwQFHky8FiEwINhF+7Cwy3vsanaKukTUiQJkjJyDg=="
+                length="68281402"
+                type="application/octet-stream" />
+        </item>
+        
+        <!-- Version 1.4.1 -->
         <item>
             <title>Version 1.4.1</title>
             <pubDate>Mon, 09 Dec 2024 11:09:00 +0000</pubDate>
