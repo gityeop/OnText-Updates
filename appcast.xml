@@ -3,7 +3,33 @@
     <channel>
         <title>OnText Changelog</title>
         
-        <!-- Version 1.3.5 - Latest -->
+        <!-- Version 1.3.6 - Latest -->
+        <item>
+            <title>Version 1.3.6</title>
+            <pubDate>Mon, 09 Dec 2024 09:17:00 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>OnText 1.3.6 Update</h2>
+                <ul>
+                    <li>✅ Fixed app terminating when closing update window</li>
+                    <li>🛡️ Added applicationShouldTerminateAfterLastWindowClosed</li>
+                    <li>🎯 App now stays running in background when update window closes</li>
+                </ul>
+                <p><strong>Update experience is now stable!</strong></p>
+                ]]>
+            </description>
+            <enclosure 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.6.zip" 
+                sparkle:version="19" 
+                sparkle:shortVersionString="1.3.6" 
+                sparkle:edSignature="ff876OQhlrlsBASpCfU/PMQxhPcbhmIbI+V7lyHPal/eQFHeeE8GgofAWo0WHajz2EKlDrnXTVCa33SRK/QaBw=="
+                length="68282777"
+                type="application/octet-stream" />
+        </item>
+        
+        <!-- Version 1.3.5 -->
         <item>
             <title>Version 1.3.5</title>
             <pubDate>Mon, 09 Dec 2024 08:31:00 +0000</pubDate>
