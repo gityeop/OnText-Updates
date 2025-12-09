@@ -3,7 +3,36 @@
     <channel>
         <title>OnText Changelog</title>
         
-        <!-- Version 1.3.7 - Latest -->
+        <!-- Version 1.3.8 - Latest -->
+        <item>
+            <title>Version 1.3.8</title>
+            <pubDate>Mon, 09 Dec 2024 10:21:00 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>OnText 1.3.8 Update - Major Improvement</h2>
+                <ul>
+                    <li>🚀 <strong>Migrated to Sparkle 2.6</strong> - Modern update framework</li>
+                    <li>✨ Completely removed activation policy hacks (70 lines deleted)</li>
+                    <li>🎯 Update window now shows perfectly without flickering</li>
+                    <li>🛡️ Proper SPUUpdaterDelegate integration</li>
+                    <li>📦 Cleaner, more maintainable codebase</li>
+                    <li>⚡ No more Dock icon issues when checking for updates</li>
+                </ul>
+                <p><strong>This is a major architectural improvement!</strong></p>
+                ]]>
+            </description>
+            <enclosure 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.8.zip" 
+                sparkle:version="21" 
+                sparkle:shortVersionString="1.3.8" 
+                sparkle:edSignature="f47W8oImvVFS+UAEI6ZjKTrb6Ri2Fod5HHPi2Bs+ekfNb+fEOMfiGpKpupkQsTp6JBfUQr25SUY1Aii0g/SgBQ=="
+                length="68279578"
+                type="application/octet-stream" />
+        </item>
+        
+        <!-- Version 1.3.7 -->
         <item>
             <title>Version 1.3.7</title>
             <pubDate>Mon, 09 Dec 2024 09:37:00 +0000</pubDate>
