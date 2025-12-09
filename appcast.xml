@@ -3,7 +3,34 @@
     <channel>
         <title>OnText Changelog</title>
         
-        <!-- Version 1.3.9 - Latest -->
+        <!-- Version 1.4.0 - Latest -->
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Mon, 09 Dec 2024 10:45:00 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>OnText 1.4.0 Update</h2>
+                <ul>
+                    <li>📝 Improved Accessibility Permission Guide</li>
+                    <li>✨ Updated instructions in all languages (EN/KR/CN)</li>
+                    <li>👉 New step: Add app using + button and restart</li>
+                    <li>🔧 Clearer guidance for post-update permission setup</li>
+                </ul>
+                <p><em>Better user experience with clearer permission instructions!</em></p>
+                ]]>
+            </description>
+            <enclosure 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.4.0.zip" 
+                sparkle:version="23" 
+                sparkle:shortVersionString="1.4.0" 
+                sparkle:edSignature="iNFMobZmGBQwYzt0Ka0VCKWG/VXDR/H3xyYRpk+dxZO072UD2WG36PcvSxJSzQ8deHi6ys9ER53GQi69SQHlAA=="
+                length="68279671"
+                type="application/octet-stream" />
+        </item>
+        
+        <!-- Version 1.3.9 -->
         <item>
             <title>Version 1.3.9</title>
             <pubDate>Mon, 09 Dec 2024 10:32:00 +0000</pubDate>
