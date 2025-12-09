@@ -3,7 +3,35 @@
     <channel>
         <title>OnText Changelog</title>
         
-        <!-- Version 1.3.2 - Latest -->
+        <!-- Version 1.3.3 - Latest -->
+        <item>
+            <title>Version 1.3.3</title>
+            <pubDate>Mon, 09 Dec 2024 08:07:00 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>OnText 1.3.3 Update</h2>
+                <ul>
+                    <li>✅ Fixed update window disappearing on first check</li>
+                    <li>✅ Fixed app terminating when closing update window</li>
+                    <li>🔧 Improved Sparkle window detection mechanism</li>
+                    <li>⏱️ Better timing for window observer initialization</li>
+                    <li>🛡️ More reliable activation policy transitions</li>
+                </ul>
+                <p><strong>Update experience is now smooth and reliable!</strong></p>
+                ]]>
+            </description>
+            <enclosure 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.3.zip" 
+                sparkle:version="16" 
+                sparkle:shortVersionString="1.3.3" 
+                sparkle:edSignature="5aPZWqaCAs1ul7RE+2usDckIG0C2acxb3tUegpPq6KjZmof+vHdNWGNYdzd7pC/M5sh7YPACnPZvguDPrVoaAw=="
+                length="68282801"
+                type="application/octet-stream" />
+        </item>
+        
+        <!-- Version 1.3.2 -->
         <item>
             <title>Version 1.3.2</title>
             <pubDate>Mon, 09 Dec 2024 07:33:00 +0000</pubDate>
