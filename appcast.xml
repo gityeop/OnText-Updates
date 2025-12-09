@@ -3,7 +3,34 @@
     <channel>
         <title>OnText Changelog</title>
         
-        <!-- Version 1.3.6 - Latest -->
+        <!-- Version 1.3.7 - Latest -->
+        <item>
+            <title>Version 1.3.7</title>
+            <pubDate>Mon, 09 Dec 2024 09:37:00 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>OnText 1.3.7 Update</h2>
+                <ul>
+                    <li>✨ Improved License tab UI layout</li>
+                    <li>📏 Increased card widths to 550px for better text display</li>
+                    <li>🎨 Darker border for license key input field</li>
+                    <li>📐 Consistent width across all license tab sections</li>
+                    <li>✅ Status text now displays fully in one line</li>
+                </ul>
+                ]]>
+            </description>
+            <enclosure 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.7.zip" 
+                sparkle:version="20" 
+                sparkle:shortVersionString="1.3.7" 
+                sparkle:edSignature="N/ItA89dFiGi1a4ItmrnlHGbIJohRdNBkDziZ2D20Xmj38FEuTsTs/yDteB/vJqCXnTv0yGxYLINSFyKv4WVBA=="
+                length="68282900"
+                type="application/octet-stream" />
+        </item>
+        
+        <!-- Version 1.3.6 -->
         <item>
             <title>Version 1.3.6</title>
             <pubDate>Mon, 09 Dec 2024 09:17:00 +0000</pubDate>
