@@ -2,16 +2,44 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>OnText Changelog</title>
+        
+        <!-- Version 1.3.0 - Latest -->
+        <item>
+            <title>Version 1.3.0</title>
+            <pubDate>Mon, 09 Dec 2024 04:48:00 +0000</pubDate>
+            <sparkle:version>1.3.0</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                <h2>OnText 1.3.0 Update</h2>
+                <ul>
+                    <li>✅ Fixed Sparkle update button not appearing</li>
+                    <li>✅ Resolved multiple duplicate windows issue</li>
+                    <li>✅ Implemented window observer for clean UI transitions</li>
+                    <li>🎯 Sparkle now uses native UI only - no conflicts!</li>
+                </ul>
+                ]]>
+            </description>
+            <enclosure 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.0.zip" 
+                sparkle:version="1.3.0" 
+                sparkle:shortVersionString="1.3.0" 
+                sparkle:edSignature="aI1silXXiuSydnYatdtoTZ4s/yM0qfmoPfIpykSGaL51G4bpjEYo6JnnSmCKevuIGsREeiKy942xDyw5p8G4BA=="
+                length="68281885"
+                type="application/octet-stream" />
+        </item>
+        
+        <!-- Version 1.2.9 - Previous -->
         <item>
             <title>Version 1.2.9</title>
-            <pubDate>Mon, 08 Dec 2025 22:55:21 +0000</pubDate>
+            <pubDate>Sun, 08 Dec 2024 14:00:00 +0000</pubDate>
             <sparkle:version>1.2.9</sparkle:version>
             <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
             <description>
                 <![CDATA[
                 <h2>OnText 1.2.9 Update</h2>
                 <ul>
-                    <li>Release version 1.2.9</li>
+                    <li>Previous version for testing</li>
                 </ul>
                 ]]>
             </description>
@@ -19,8 +47,8 @@
                 url="https://gityeop.github.io/OnText-Updates/OnText_v1.2.9.zip" 
                 sparkle:version="1.2.9" 
                 sparkle:shortVersionString="1.2.9" 
-                sparkle:edSignature="qm5JMNJyY6Y0j1xInFRwUCq+k70Wo2WLmHmxzKfJQ4GJsKiuaMRXR3dhx3kgTzEjNn7SpEH3Z9Xhz7UNgg/PBw=="
-                length="68280297"
+                sparkle:edSignature="PLACEHOLDER_SIGNATURE_FOR_1.2.9"
+                length="68000000"
                 type="application/octet-stream" />
         </item>
     </channel>
