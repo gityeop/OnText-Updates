@@ -1,9 +1,9 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.com/xml-namespaces/sparkle">
     <channel>
         <title>OnText Changelog</title>
         
-        <!-- Version 1.4.2 - Latest -->
+        <!-- Version 1.4.2 - Latest (License Required) -->
         <item>
             <title>Version 1.4.2</title>
             <pubDate>Mon, 09 Dec 2024 13:28:00 +0000</pubDate>
@@ -11,15 +11,27 @@
             <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
             <description>
                 <![CDATA[
-                <h2>OnText 1.4.2 Update - Critical Fix</h2>
+                <h2>OnText 1.4.2 - Latest Release</h2>
+                <h3>What's New</h3>
                 <ul>
                     <li>🔧 <strong>Fixed: Update window not appearing on first click</strong></li>
-                    <li>✨ Update window now always appears in front</li>
-                    <li>🎯 Added NSApp.activate before showing update UI</li>
+                    <li>🔄 <strong>New: Restart App menu item</strong></li>
+                    <li>📝 Improved Accessibility Permission Guide</li>
+                    <li>🚀 Migrated to Sparkle 2.6 - Modern update framework</li>
+                    <li>✨ Completely removed activation policy hacks (70 lines deleted)</li>
+                    <li>🎯 Update window now shows perfectly without flickering</li>
+                    <li>🛡️ Proper SPUUpdaterDelegate integration</li>
+                </ul>
+                <h3>Features</h3>
+                <ul>
+                    <li>🌍 Multilingual support (EN/KR/CN)</li>
+                    <li>⚡ Uses modern NSWorkspace API for safe restart</li>
+                    <li>✨ Perfect for after accessibility permission setup</li>
                     <li>📱 Critical fix for Menu Bar (Accessory) apps</li>
                     <li>⚡ No more "double-click to see update" issue</li>
                 </ul>
-                <p><em>Update window now reliably appears immediately!</em></p>
+                <p><strong>Note: License key required for activation.</strong></p>
+                <p><em>Purchase at gumroad.com for full access!</em></p>
                 ]]>
             </description>
             <enclosure 
@@ -28,352 +40,6 @@
                 sparkle:shortVersionString="1.4.2" 
                 sparkle:edSignature="LO29+nGiIUTXJO2Of9qgMgZlSbM3vFCOfg+QAD3068bdlPwQFHky8FiEwINhF+7Cwy3vsanaKukTUiQJkjJyDg=="
                 length="68281402"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.4.1 -->
-        <item>
-            <title>Version 1.4.1</title>
-            <pubDate>Mon, 09 Dec 2024 11:09:00 +0000</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.4.1 Update</h2>
-                <ul>
-                    <li>🔄 <strong>New: Restart App menu item</strong></li>
-                    <li>🌍 Multilingual support (EN/KR/CN)</li>
-                    <li>⚡ Uses modern NSWorkspace API for safe restart</li>
-                    <li>✨ Perfect for after accessibility permission setup</li>
-                    <li>🛡️ Fallback support for older macOS versions</li>
-                </ul>
-                <p><em>Now you can easily restart the app from the menu bar!</em></p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.4.1.zip" 
-                sparkle:version="24" 
-                sparkle:shortVersionString="1.4.1" 
-                sparkle:edSignature="kN3d662v2VQ2Qb6K/+CWfDEy7AnTC4rFO6B0bLAHm4XBn+5RMItxYBnNN6nty/AXa4+8Zze2ENGOVOSRkifpCg=="
-                length="68281378"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.4.0 -->
-        <item>
-            <title>Version 1.4.0</title>
-            <pubDate>Mon, 09 Dec 2024 10:45:00 +0000</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.4.0 Update</h2>
-                <ul>
-                    <li>📝 Improved Accessibility Permission Guide</li>
-                    <li>✨ Updated instructions in all languages (EN/KR/CN)</li>
-                    <li>👉 New step: Add app using + button and restart</li>
-                    <li>🔧 Clearer guidance for post-update permission setup</li>
-                </ul>
-                <p><em>Better user experience with clearer permission instructions!</em></p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.4.0.zip" 
-                sparkle:version="23" 
-                sparkle:shortVersionString="1.4.0" 
-                sparkle:edSignature="iNFMobZmGBQwYzt0Ka0VCKWG/VXDR/H3xyYRpk+dxZO072UD2WG36PcvSxJSzQ8deHi6ys9ER53GQi69SQHlAA=="
-                length="68279671"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.9 -->
-        <item>
-            <title>Version 1.3.9</title>
-            <pubDate>Mon, 09 Dec 2024 10:32:00 +0000</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.9 Update</h2>
-                <ul>
-                    <li>🐛 Fixed compiler warning in MenuBarManager</li>
-                    <li>🧹 Code cleanup and optimization</li>
-                    <li>✅ Sparkle 2.x update mechanism verification</li>
-                </ul>
-                <p><em>Test release to verify Sparkle 2.x is working correctly!</em></p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.9.zip" 
-                sparkle:version="22" 
-                sparkle:shortVersionString="1.3.9" 
-                sparkle:edSignature="enXBJCw9QNUkoKV8/bed9zEJguKEf38ryyrdziCvmw3s0jO1me/+BPgsyI3trHRhCR4s/DyozT54+c4aCE87Ag=="
-                length="68279655"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.8 -->
-        <item>
-            <title>Version 1.3.8</title>
-            <pubDate>Mon, 09 Dec 2024 10:21:00 +0000</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.8 Update - Major Improvement</h2>
-                <ul>
-                    <li>🚀 <strong>Migrated to Sparkle 2.6</strong> - Modern update framework</li>
-                    <li>✨ Completely removed activation policy hacks (70 lines deleted)</li>
-                    <li>🎯 Update window now shows perfectly without flickering</li>
-                    <li>🛡️ Proper SPUUpdaterDelegate integration</li>
-                    <li>📦 Cleaner, more maintainable codebase</li>
-                    <li>⚡ No more Dock icon issues when checking for updates</li>
-                </ul>
-                <p><strong>This is a major architectural improvement!</strong></p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.8.zip" 
-                sparkle:version="21" 
-                sparkle:shortVersionString="1.3.8" 
-                sparkle:edSignature="f47W8oImvVFS+UAEI6ZjKTrb6Ri2Fod5HHPi2Bs+ekfNb+fEOMfiGpKpupkQsTp6JBfUQr25SUY1Aii0g/SgBQ=="
-                length="68279578"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.7 -->
-        <item>
-            <title>Version 1.3.7</title>
-            <pubDate>Mon, 09 Dec 2024 09:37:00 +0000</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.7 Update</h2>
-                <ul>
-                    <li>✨ Improved License tab UI layout</li>
-                    <li>📏 Increased card widths to 550px for better text display</li>
-                    <li>🎨 Darker border for license key input field</li>
-                    <li>📐 Consistent width across all license tab sections</li>
-                    <li>✅ Status text now displays fully in one line</li>
-                </ul>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.7.zip" 
-                sparkle:version="20" 
-                sparkle:shortVersionString="1.3.7" 
-                sparkle:edSignature="N/ItA89dFiGi1a4ItmrnlHGbIJohRdNBkDziZ2D20Xmj38FEuTsTs/yDteB/vJqCXnTv0yGxYLINSFyKv4WVBA=="
-                length="68282900"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.6 -->
-        <item>
-            <title>Version 1.3.6</title>
-            <pubDate>Mon, 09 Dec 2024 09:17:00 +0000</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.6 Update</h2>
-                <ul>
-                    <li>✅ Fixed app terminating when closing update window</li>
-                    <li>🛡️ Added applicationShouldTerminateAfterLastWindowClosed</li>
-                    <li>🎯 App now stays running in background when update window closes</li>
-                </ul>
-                <p><strong>Update experience is now stable!</strong></p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.6.zip" 
-                sparkle:version="19" 
-                sparkle:shortVersionString="1.3.6" 
-                sparkle:edSignature="ff876OQhlrlsBASpCfU/PMQxhPcbhmIbI+V7lyHPal/eQFHeeE8GgofAWo0WHajz2EKlDrnXTVCa33SRK/QaBw=="
-                length="68282777"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.5 -->
-        <item>
-            <title>Version 1.3.5</title>
-            <pubDate>Mon, 09 Dec 2024 08:31:00 +0000</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.5 Update</h2>
-                <ul>
-                    <li>✨ Improved UI consistency in Appearance section</li>
-                    <li>🏷️ Added "App Icon:" label to match Language and Theme layout</li>
-                    <li>🎨 Better visual hierarchy in preferences window</li>
-                </ul>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.5.zip" 
-                sparkle:version="18" 
-                sparkle:shortVersionString="1.3.5" 
-                sparkle:edSignature="8d0GW9KONng7f25rUQSpc97YZXWuYDWDKtrwS0eJq6EAnSrdxS9daPJZFWP8NogLi5iXi+dOzTV5yacb/Ap8Bg=="
-                length="68282915"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.4 -->
-        <item>
-            <title>Version 1.3.4</title>
-            <pubDate>Mon, 09 Dec 2024 08:21:00 +0000</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.4 Update - Critical Fix</h2>
-                <ul>
-                    <li>🔥 <strong>CRITICAL:</strong> Fixed runtime crash on app launch</li>
-                    <li>✅ Removed duplicate dictionary keys in LocalizationManager</li>
-                    <li>🚀 App now starts reliably without crashes</li>
-                </ul>
-                <p><strong>This is a critical update - please install immediately!</strong></p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.4.zip" 
-                sparkle:version="17" 
-                sparkle:shortVersionString="1.3.4" 
-                sparkle:edSignature="JAY3Ho5cgEhHy1Y2sN4XagktJf+fMlcQ7FXbk4zlcI0Jh2PlephQbo+PT8rpZgWNHdekzFSW+QTCp3nxEizWBg=="
-                length="68282770"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.3 -->
-        <item>
-            <title>Version 1.3.3</title>
-            <pubDate>Mon, 09 Dec 2024 08:07:00 +0000</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.3 Update</h2>
-                <ul>
-                    <li>✅ Fixed update window disappearing on first check</li>
-                    <li>✅ Fixed app terminating when closing update window</li>
-                    <li>🔧 Improved Sparkle window detection mechanism</li>
-                    <li>⏱️ Better timing for window observer initialization</li>
-                    <li>🛡️ More reliable activation policy transitions</li>
-                </ul>
-                <p><strong>Update experience is now smooth and reliable!</strong></p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.3.zip" 
-                sparkle:version="16" 
-                sparkle:shortVersionString="1.3.3" 
-                sparkle:edSignature="5aPZWqaCAs1ul7RE+2usDckIG0C2acxb3tUegpPq6KjZmof+vHdNWGNYdzd7pC/M5sh7YPACnPZvguDPrVoaAw=="
-                length="68282801"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.2 -->
-        <item>
-            <title>Version 1.3.2</title>
-            <pubDate>Mon, 09 Dec 2024 07:33:00 +0000</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.2 Update</h2>
-                <ul>
-                    <li>✅ Enhanced accessibility permission guidance</li>
-                    <li>📋 Detailed step-by-step instructions for permission setup</li>
-                    <li>⚙️ Direct link to System Settings</li>
-                    <li>🔐 Improved code signing with entitlements</li>
-                    <li>💡 Clear instructions for removing old app entry after updates</li>
-                </ul>
-                <p><strong>Note:</strong> After updating, you may need to re-grant accessibility permissions. The app will guide you through the process.</p>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.2.zip" 
-                sparkle:version="15" 
-                sparkle:shortVersionString="1.3.2" 
-                sparkle:edSignature="UXzP80/uS9SWyUSgf5KIw7m+1dN3yRWVjWDsIGAFj4LyXMHtA7FlwpQcZsGeKjHVClqMf/mAj/XucG1+lD/PBg=="
-                length="68282140"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.1 -->
-        <item>
-            <title>Version 1.3.1</title>
-            <pubDate>Mon, 09 Dec 2024 06:12:00 +0000</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.1 Update</h2>
-                <ul>
-                    <li>✅ Complete internationalization support (Korean & Chinese)</li>
-                    <li>✅ All UI elements now properly translated</li>
-                    <li>✅ Real-time language switching works perfectly</li>
-                    <li>✅ Fixed text truncation in License tab</li>
-                    <li>🌍 Full localization for preferences, menus, and dialogs</li>
-                </ul>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.1.zip" 
-                sparkle:version="14" 
-                sparkle:shortVersionString="1.3.1" 
-                sparkle:edSignature="D2nsr/z2ov9ShnWBpcRZKaui3asd0NjkdH6j2Xkw3Xtsp8tjNn+biMB40hK9l4TlYgAU9Dp24nkWtaVuI+YhBg=="
-                length="68284139"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.3.0 -->
-        <item>
-            <title>Version 1.3.0</title>
-            <pubDate>Mon, 09 Dec 2024 04:48:00 +0000</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.3.0 Update</h2>
-                <ul>
-                    <li>✅ Fixed Sparkle update button not appearing</li>
-                    <li>✅ Resolved multiple duplicate windows issue</li>
-                    <li>✅ Implemented window observer for clean UI transitions</li>
-                    <li>🎯 Sparkle now uses native UI only - no conflicts!</li>
-                </ul>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.3.0.zip" 
-                sparkle:version="13" 
-                sparkle:shortVersionString="1.3.0" 
-                sparkle:edSignature="aI1silXXiuSydnYatdtoTZ4s/yM0qfmoPfIpykSGaL51G4bpjEYo6JnnSmCKevuIGsREeiKy942xDyw5p8G4BA=="
-                length="68281885"
-                type="application/octet-stream" />
-        </item>
-        
-        <!-- Version 1.2.9 - Previous -->
-        <item>
-            <title>Version 1.2.9</title>
-            <pubDate>Sun, 08 Dec 2024 14:00:00 +0000</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
-            <description>
-                <![CDATA[
-                <h2>OnText 1.2.9 Update</h2>
-                <ul>
-                    <li>Previous version for testing</li>
-                </ul>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.2.9.zip" 
-                sparkle:version="12" 
-                sparkle:shortVersionString="1.2.9" 
-                sparkle:edSignature="PLACEHOLDER_SIGNATURE_FOR_1.2.9"
-                length="68000000"
                 type="application/octet-stream" />
         </item>
     </channel>
