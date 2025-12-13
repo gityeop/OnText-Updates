@@ -3,27 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.3</title>
-            <pubDate>Fri, 12 Dec 2025 04:49:03 +0000</pubDate>
+            <title>Version 1.5.4</title>
+            <pubDate>Sat, 13 Dec 2025 12:54:12 +0000</pubDate>
             
-            <sparkle:version>29</sparkle:version>
+            <sparkle:version>30</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>OnText 1.5.3 Update</h2>
+                <h2>OnText 1.5.4 Update</h2>
                 <ul>
-                    <li>Release version 1.5.3 (Build 29)</li>
+                    <li>Release version 1.5.4 (Build 30)</li>
                 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.3.zip" 
-                sparkle:version="29" 
-                sparkle:shortVersionString="1.5.3" 
-                sparkle:edSignature="Q1JLwtmfrkYQxPvuDGHQoup49AJnU1EdHeGPy9NakYP8z7TINSLf5kNaN0IuM+9YKScPQXsSNfMLA4WTKeS4AQ=="
-                length="74611706"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.4.zip" 
+                sparkle:version="30" 
+                sparkle:shortVersionString="1.5.4" 
+                sparkle:edSignature="trUibS8SXOa8JeSC/U4SycKL3U8PUh6KjG+uzOSd6rPLQTiNSBBA2CBnhCSOMCAvgIwJVQg40R/F1eoqvDzvBA=="
+                length="74612613"
                 type="application/octet-stream" />
         </item>
     </channel>
