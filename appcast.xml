@@ -3,12 +3,12 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.13</title>
-            <pubDate>Mon, 15 Dec 2025 17:58:11 +0000</pubDate>
+            <title>Version 1.5.14</title>
+            <pubDate>Mon, 15 Dec 2025 18:19:34 +0000</pubDate>
             
-            <sparkle:version>27</sparkle:version>
+            <sparkle:version>28</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.13</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.14</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
@@ -21,11 +21,11 @@
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.13.zip" 
-                sparkle:version="27" 
-                sparkle:shortVersionString="1.5.13" 
-                sparkle:edSignature="XSBtUtVv8u5AUNmj9ZKiSVIW/EHZMvIdk2pfbqTqSFMXvbevCZp4gyRr9i/s4vaQpBLNE8kKpd37C+omaQgSAA=="
-                length="32736207"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.14.zip" 
+                sparkle:version="28" 
+                sparkle:shortVersionString="1.5.14" 
+                sparkle:edSignature="ZibktghHLoj67evaQ0z2/KWcJY3OXh0t5OwJirGn+IMRoNrE6CY0eyoI+o9kT1ZKugRtcCzH3G6gBuDMKDJHDQ=="
+                length="32907126"
                 type="application/octet-stream" />
         </item>
     </channel>
