@@ -3,29 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.12</title>
-            <pubDate>Mon, 15 Dec 2025 08:10:13 +0000</pubDate>
+            <title>Version 1.5.13</title>
+            <pubDate>Mon, 15 Dec 2025 17:58:11 +0000</pubDate>
             
-            <sparkle:version>38</sparkle:version>
+            <sparkle:version>27</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.12</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.13</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.11 업데이트</h2>
+                <h2>🎉 v1.5.12 Update</h2>
 <ul>
-    <li>🍎 Apple 공증 완료 - 더 이상 "확인되지 않은 개발자" 경고가 표시되지 않습니다</li>
-    <li>🔐 앱 보안이 강화되었습니다</li>
-    <li>🚀 앱 시작 시 불필요한 권한 요청이 제거되었습니다</li>
+    <li>🍎 Apple notarization complete - no more "unverified developer" warnings</li>
+    <li>🔐 App security has been enhanced with v1.5.12 Update</li>
+    <li>🚀 Removed unnecessary permission requests on app startup</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.12.zip" 
-                sparkle:version="38" 
-                sparkle:shortVersionString="1.5.12" 
-                sparkle:edSignature="5okE0d14dvqp9UCCasoUBLY8QTjao5iOBiRb0YWzX5mD7zFs6KQhJ6EeCCrMS+lciHnV6MJ5nOOW0Rz8uHDVCA=="
-                length="75345459"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.13.zip" 
+                sparkle:version="27" 
+                sparkle:shortVersionString="1.5.13" 
+                sparkle:edSignature="XSBtUtVv8u5AUNmj9ZKiSVIW/EHZMvIdk2pfbqTqSFMXvbevCZp4gyRr9i/s4vaQpBLNE8kKpd37C+omaQgSAA=="
+                length="32736207"
                 type="application/octet-stream" />
         </item>
     </channel>
