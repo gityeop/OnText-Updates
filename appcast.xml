@@ -3,29 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.15</title>
-            <pubDate>Mon, 15 Dec 2025 19:24:59 +0000</pubDate>
+            <title>Version 1.5.16</title>
+            <pubDate>Tue, 16 Dec 2025 08:50:12 +0000</pubDate>
             
-            <sparkle:version>29</sparkle:version>
+            <sparkle:version>30</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.15</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.16</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.12 Update</h2>
+                <h2>🎉 v1.5.16 Update</h2>
 <ul>
-    <li>🍎 Apple notarization complete - no more "unverified developer" warnings</li>
-    <li>🔐 App security has been enhanced with v1.5.12 Update</li>
-    <li>🚀 Removed unnecessary permission requests on app startup</li>
+    <li>🔧 Improved AppleScript actions - ChatGPT, Gemini, DeepL, Add to Notes now use cleaner code</li>
+    <li>🔐 Fixed Sparkle update compatibility - no more Gatekeeper blocks after updates</li>
+    <li>📦 Enhanced build system with proper code signing preservation</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.15.zip" 
-                sparkle:version="29" 
-                sparkle:shortVersionString="1.5.15" 
-                sparkle:edSignature="3WADb1cqBgMbR8ZFEh3x1wLAMS5+yr7DHcNuLFjpKDyGgktekRc7rZ6GrB1bKX9U9uaU5omd+pb+cCmMi22/Ag=="
-                length="31571722"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.16.zip" 
+                sparkle:version="30" 
+                sparkle:shortVersionString="1.5.16" 
+                sparkle:edSignature="3d4R5rTnN0FA0CID4Z7xik1whTWLO/FoAJhh3hnoHelH0dPkVMgP5EWmFrljC7k6egc9fgtuvX15m0PnorftDA=="
+                length="31571997"
                 type="application/octet-stream" />
         </item>
     </channel>
