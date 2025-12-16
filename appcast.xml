@@ -3,29 +3,28 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.16</title>
-            <pubDate>Tue, 16 Dec 2025 08:50:12 +0000</pubDate>
+            <title>Version 1.5.17</title>
+            <pubDate>Tue, 16 Dec 2025 17:46:50 +0000</pubDate>
             
-            <sparkle:version>30</sparkle:version>
+            <sparkle:version>31</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.16</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.17</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.16 Update</h2>
+                <h2>🎉 v1.5.17 Update</h2>
 <ul>
-    <li>🔧 Improved AppleScript actions - ChatGPT, Gemini, DeepL, Add to Notes now use cleaner code</li>
-    <li>🔐 Fixed Sparkle update compatibility - no more Gatekeeper blocks after updates</li>
-    <li>📦 Enhanced build system with proper code signing preservation</li>
+    <li>🤖 Added Action Builder GPT - helps you create custom actions easily</li>
+    <li>� Improved AppleScript actions for better reliability</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.16.zip" 
-                sparkle:version="30" 
-                sparkle:shortVersionString="1.5.16" 
-                sparkle:edSignature="3d4R5rTnN0FA0CID4Z7xik1whTWLO/FoAJhh3hnoHelH0dPkVMgP5EWmFrljC7k6egc9fgtuvX15m0PnorftDA=="
-                length="31571997"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.17.zip" 
+                sparkle:version="31" 
+                sparkle:shortVersionString="1.5.17" 
+                sparkle:edSignature="kc/BvWYWa6u2zb5xb4cqDZbTKS8oLZ+XSgGL8ATURlCJG2gOS16CbAhQse9kfX+enpoU7K7inUlAUL3I6sV6DQ=="
+                length="31572085"
                 type="application/octet-stream" />
         </item>
     </channel>
