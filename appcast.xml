@@ -3,31 +3,28 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.21</title>
-            <pubDate>Wed, 17 Dec 2025 20:50:00 +0000</pubDate>
+            <title>Version 1.5.22</title>
+            <pubDate>Wed, 17 Dec 2025 21:00:33 +0000</pubDate>
             
-            <sparkle:version>35</sparkle:version>
+            <sparkle:version>36</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.21</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.22</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.21 Update</h2>
+                <h2>🎉 v1.5.22 Update</h2>
 <ul>
-    <li>🔐 Added device-based license protection (1 device per license)</li>
-    <li>🔄 Added "Deactivate License" button for device transfers</li>
-    <li>⚠️ License validation on app startup (refund/dispute/chargeback check)</li>
-    <li>📱 Device change limit: 3 times maximum</li>
-    <li>🌐 Added license-related translations (EN/KO/ZH)</li>
+    <li>🔗 Fixed Purchase Pro License button URL</li>
+    <li>📱 Updated bundle identifier</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.21.zip" 
-                sparkle:version="35" 
-                sparkle:shortVersionString="1.5.21" 
-                sparkle:edSignature="a0+eRzHLz4aLS32FEtVF1xR8mg3ZNtY+Mz2Gy7XI7ZDaXF7HuxWEjaTwhNaopkxZW+EuhVMa/NhWrhNGVIXQCQ=="
-                length="11712707"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.22.zip" 
+                sparkle:version="36" 
+                sparkle:shortVersionString="1.5.22" 
+                sparkle:edSignature="0/YmNjHwlLnaz+XRv918R3jFgatSNgzr/s2RCasWuA+a8RM7sxR9NwLK3XeP0FvG8XKv18vNUD3XttVoD1wUBA=="
+                length="11712713"
                 type="application/octet-stream" />
         </item>
     </channel>
