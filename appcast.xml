@@ -3,29 +3,30 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.19</title>
-            <pubDate>Tue, 16 Dec 2025 19:56:38 +0000</pubDate>
+            <title>Version 1.5.20</title>
+            <pubDate>Wed, 17 Dec 2025 11:09:29 +0000</pubDate>
             
-            <sparkle:version>33</sparkle:version>
+            <sparkle:version>34</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.19</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.20</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.19 Update</h2>
+                <h2>🎉 v1.5.20 Update</h2>
 <ul>
+    <li>🎨 Added Emoji icon support - use any emoji as action icon</li>
+    <li>🐛 Fixed F2 panel sometimes closing immediately after opening</li>
     <li>📦 Reduced app size by 57% (35MB → 15MB)</li>
-    <li>💡 Added Function Keys Tip for faster F-key access</li>
-    <li>📝 Fixed onboarding tutorial shortcut keys</li>
+    <li>💡 Added Function Keys Tip for faster shortcut access</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.19.zip" 
-                sparkle:version="33" 
-                sparkle:shortVersionString="1.5.19" 
-                sparkle:edSignature="BbRSIg2NklOjPTHLD4zhsfv+dgPR+s+7TqmYUtrRkxfReNbWgUHU36fc2vbDkWiep9MROl+Yo+lr9EjP5oTPBg=="
-                length="11689417"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.20.zip" 
+                sparkle:version="34" 
+                sparkle:shortVersionString="1.5.20" 
+                sparkle:edSignature="Klem5OF4g/3KA1G0eFzkrqXFNBO8fweGJFXsPGYu24kXB7bKg3Vf/BwCV2RL6FnyzxWu8VdGgaajYml9Cx4pAg=="
+                length="11693890"
                 type="application/octet-stream" />
         </item>
     </channel>
