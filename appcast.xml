@@ -6,7 +6,7 @@
             <title>Version 1.5.23</title>
             <pubDate>Thu, 18 Dec 2025 10:25:07 +0000</pubDate>
             
-            <sparkle:version>27</sparkle:version>
+            <sparkle:version>37</sparkle:version>
             
             <sparkle:shortVersionString>1.5.23</sparkle:shortVersionString>
             
@@ -20,10 +20,10 @@
             </description>
             <enclosure 
                 url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.23.zip" 
-                sparkle:version="27" 
+                sparkle:version="37" 
                 sparkle:shortVersionString="1.5.23" 
-                sparkle:edSignature="Z5Or0z3EcsXXG85ReICcqq170YzJUMaN9x2Cg7RBG1EHydF5ROL5xT+OmVD73pcdgBlvP21gwyPqWbsN+e1ADA=="
-                length="11713533"
+                sparkle:edSignature="OFxr/cld70ZagRGWP3mXrMSDye2AMqFZzqQ2D+PAR7YMWYn0wCDg4wJq7fpLEC6KEOA7e4D0LLn8zmfT/q9RCg=="
+                length="11713554"
                 type="application/octet-stream" />
         </item>
     </channel>
