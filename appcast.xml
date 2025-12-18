@@ -3,28 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.22</title>
-            <pubDate>Wed, 17 Dec 2025 21:00:33 +0000</pubDate>
+            <title>Version 1.5.23</title>
+            <pubDate>Thu, 18 Dec 2025 10:25:07 +0000</pubDate>
             
-            <sparkle:version>36</sparkle:version>
+            <sparkle:version>27</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.22</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.23</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.22 Update</h2>
+                <h2>🎉 v1.5.23 Update</h2>
 <ul>
-    <li>🔗 Fixed Purchase Pro License button URL</li>
-    <li>📱 Updated bundle identifier</li>
+    <li>🚀 Added "Launch at Login" option in Preferences > Behavior</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.22.zip" 
-                sparkle:version="36" 
-                sparkle:shortVersionString="1.5.22" 
-                sparkle:edSignature="0/YmNjHwlLnaz+XRv918R3jFgatSNgzr/s2RCasWuA+a8RM7sxR9NwLK3XeP0FvG8XKv18vNUD3XttVoD1wUBA=="
-                length="11712713"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.23.zip" 
+                sparkle:version="27" 
+                sparkle:shortVersionString="1.5.23" 
+                sparkle:edSignature="Z5Or0z3EcsXXG85ReICcqq170YzJUMaN9x2Cg7RBG1EHydF5ROL5xT+OmVD73pcdgBlvP21gwyPqWbsN+e1ADA=="
+                length="11713533"
                 type="application/octet-stream" />
         </item>
     </channel>
