@@ -3,27 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.23</title>
-            <pubDate>Thu, 18 Dec 2025 10:25:07 +0000</pubDate>
+            <title>Version 1.5.24</title>
+            <pubDate>Thu, 18 Dec 2025 11:57:00 +0000</pubDate>
             
-            <sparkle:version>37</sparkle:version>
+            <sparkle:version>38</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.23</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.24</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.23 Update</h2>
+                <h2>🎉 v1.5.24 Update</h2>
 <ul>
-    <li>🚀 Added "Launch at Login" option in Preferences > Behavior</li>
+    <li>🐛 Fixed: Floating panel sometimes not closing when executing Large Type action</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.23.zip" 
-                sparkle:version="37" 
-                sparkle:shortVersionString="1.5.23" 
-                sparkle:edSignature="OFxr/cld70ZagRGWP3mXrMSDye2AMqFZzqQ2D+PAR7YMWYn0wCDg4wJq7fpLEC6KEOA7e4D0LLn8zmfT/q9RCg=="
-                length="11713554"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.24.zip" 
+                sparkle:version="38" 
+                sparkle:shortVersionString="1.5.24" 
+                sparkle:edSignature="0rjxaPe5N0AHkMeX1wvebye/ORsVs1a5tmpPIJki4A9/aKb2tthvPk4kU+5pDRgq/OCOrubuTfC8n3+kGHwOBQ=="
+                length="11713390"
                 type="application/octet-stream" />
         </item>
     </channel>
