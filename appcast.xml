@@ -3,28 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.25</title>
-            <pubDate>Thu, 18 Dec 2025 13:33:00 +0000</pubDate>
+            <title>Version 1.5.26</title>
+            <pubDate>$(date -u +"%a, %d %b %Y %H:%M:%S %z")</pubDate>
             
-            <sparkle:version>39</sparkle:version>
+            <sparkle:version>40</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.25</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.26</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.25 Update</h2>
+                <h2>🎉 v1.5.26 Update</h2>
 <ul>
-    <li>🐛 Fixed: Tutorial sample text showing instead of actual selected text after completing onboarding</li>
-    <li>🐛 Fixed: Large Type window now closes with ESC key</li>
+    <li>🐛 Fixed: Resource bundle loading crash on fresh installs</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.25.zip" 
-                sparkle:version="39" 
-                sparkle:shortVersionString="1.5.25" 
-                sparkle:edSignature="huTUwPvQ4kSXxGHQALQoE51cbxhBQM/9yclF8fFFSM3N3i4rks2rGfXkrEsleUSUSCbWKdt6FztR526/qWkQAw=="
-                length="11713771"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.26.zip" 
+                sparkle:version="40" 
+                sparkle:shortVersionString="1.5.26" 
+                sparkle:edSignature="bMTjRlBVwieaCkWfQUVzlR7tqTE5CukWrj0GfFlm6MlFiMVrdwFG2npQyHFjr8Uq6uo4VRgoflSmi7AztzmpBg=="
+                length="11713888"
                 type="application/octet-stream" />
         </item>
     </channel>
