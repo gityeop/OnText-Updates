@@ -3,27 +3,28 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.24</title>
-            <pubDate>Thu, 18 Dec 2025 11:57:00 +0000</pubDate>
+            <title>Version 1.5.25</title>
+            <pubDate>Thu, 18 Dec 2025 13:33:00 +0000</pubDate>
             
-            <sparkle:version>38</sparkle:version>
+            <sparkle:version>39</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.24</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.25</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.24 Update</h2>
+                <h2>🎉 v1.5.25 Update</h2>
 <ul>
-    <li>🐛 Fixed: Floating panel sometimes not closing when executing Large Type action</li>
+    <li>🐛 Fixed: Tutorial sample text showing instead of actual selected text after completing onboarding</li>
+    <li>🐛 Fixed: Large Type window now closes with ESC key</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.24.zip" 
-                sparkle:version="38" 
-                sparkle:shortVersionString="1.5.24" 
-                sparkle:edSignature="0rjxaPe5N0AHkMeX1wvebye/ORsVs1a5tmpPIJki4A9/aKb2tthvPk4kU+5pDRgq/OCOrubuTfC8n3+kGHwOBQ=="
-                length="11713390"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.25.zip" 
+                sparkle:version="39" 
+                sparkle:shortVersionString="1.5.25" 
+                sparkle:edSignature="huTUwPvQ4kSXxGHQALQoE51cbxhBQM/9yclF8fFFSM3N3i4rks2rGfXkrEsleUSUSCbWKdt6FztR526/qWkQAw=="
+                length="11713771"
                 type="application/octet-stream" />
         </item>
     </channel>
