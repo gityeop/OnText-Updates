@@ -3,27 +3,26 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.26</title>
-            <pubDate>$(date -u +"%a, %d %b %Y %H:%M:%S %z")</pubDate>
-            
-            <sparkle:version>40</sparkle:version>
-            
-            <sparkle:shortVersionString>1.5.26</sparkle:shortVersionString>
-            
+            <title>Version 1.5.27</title>
+            <pubDate>Thu, 19 Dec 2025 22:37:00 +0900</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.5.27</sparkle:shortVersionString>
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.26 Update</h2>
-<ul>
-    <li>🐛 Fixed: Resource bundle loading crash on fresh installs</li>
-</ul>
+                <h2>🎉 v1.5.27 Update</h2>
+                <ul>
+                    <li>🐛 <b>Fix:</b> Implement tutorial-specific actions during onboarding and refactor action configuration retrieval (Thanks to u/adithradh on Reddit)</li>
+                    <li>🐛 <b>Fix:</b> Display user's floating panel with sample text upon hotkey press after onboarding completion (Thanks to u/adithradh on Reddit)</li>
+                    <li>🐛 <b>Fix:</b> Improve multi-language input compatibility by mapping hardware keyCodes to US QWERTY characters, ensuring consistent hotkey detection regardless of the active input source (Thanks to u/WillChangeMyUsername)</li>
+                </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.26.zip" 
-                sparkle:version="40" 
-                sparkle:shortVersionString="1.5.26" 
-                sparkle:edSignature="bMTjRlBVwieaCkWfQUVzlR7tqTE5CukWrj0GfFlm6MlFiMVrdwFG2npQyHFjr8Uq6uo4VRgoflSmi7AztzmpBg=="
-                length="11713888"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.27.dmg" 
+                sparkle:version="41" 
+                sparkle:shortVersionString="1.5.27" 
+                sparkle:edSignature="rJGTLOVSeyKYFl9Gtoy4ut8p9M32qRQSLOLuS0QzqOK1cDAOFUk4X8hFUQywiv9Qv+lYiT6G+kEcetg3DognBA=="
+                length="13390018"
                 type="application/octet-stream" />
         </item>
     </channel>
