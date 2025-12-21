@@ -3,18 +3,23 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.29</title>
-            <pubDate>Sun, 21 Dec 2025 15:35:06 +0000</pubDate>
+            <title>Version 1.5.30</title>
+            <pubDate>Sun, 21 Dec 2025 15:49:48 +0000</pubDate>
             
             <sparkle:version>44</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.29</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.30</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.29 Update</h2>
+                <h2>🎉 v1.5.30 Update</h2>
 
-<h3>✨ New Features</h3>
+<h3>🐛 Critical Bug Fix</h3>
+<ul>
+    <li>🚨 <strong>Fixed 'c' character input bug</strong>: Resolved an issue where pressing F2 would sometimes replace the selected text with the character 'c' instead of copying it. This was due to a missing Command key signal in the simulation logic.</li>
+</ul>
+
+<h3>✨ New Features (from v1.5.29)</h3>
 <ul>
     <li>📚 <strong>Action Library (Beta)</strong>: New predefined action library with categorized actions (All Actions, AI, Search, etc.) - easily add common actions to your setup</li>
     <li>🔤 <strong>Spell Checker</strong>: Built-in spell check with NSSpellChecker integration
@@ -27,7 +32,7 @@
     </li>
 </ul>
 
-<h3>🐛 Bug Fixes</h3>
+<h3>🐛 Other Fixes</h3>
 <ul>
     <li>Fixed intermittent F2 trigger failure where the floating panel would not appear (~25% of the time)</li>
     <li>ESC key now works immediately during popup animation</li>
@@ -37,11 +42,11 @@
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.29.zip" 
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.30.zip" 
                 sparkle:version="44" 
-                sparkle:shortVersionString="1.5.29" 
-                sparkle:edSignature="Gy0CsVIVBLFwm6bLQNFUHWlws4GDpjilpZa+WxBYcmKZdFuGW3P9YV8NkC7CBz6lypXkjYIwXCDeTNTotrhYCA=="
-                length="11756739"
+                sparkle:shortVersionString="1.5.30" 
+                sparkle:edSignature="QvhYarfhad2GMM3m5H2gVI9qQSwAENkbixNy04z3DwC/gSBQ5rS7DyJ9IJ+6WbFeN/BcuEqhWdoJlDO99WM8BA=="
+                length="11757059"
                 type="application/octet-stream" />
         </item>
     </channel>
