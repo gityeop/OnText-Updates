@@ -3,29 +3,45 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.28</title>
-            <pubDate>Fri, 19 Dec 2025 16:19:39 +0000</pubDate>
+            <title>Version 1.5.29</title>
+            <pubDate>Sun, 21 Dec 2025 15:24:01 +0000</pubDate>
             
-            <sparkle:version>42</sparkle:version>
+            <sparkle:version>43</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.28</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.29</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.27 Update</h2>
+                <h2>🎉 v1.5.29 Update</h2>
+
+<h3>✨ New Features</h3>
 <ul>
-    <li>🐛 Fix: Implement tutorial-specific actions during onboarding and refactor action configuration retrieval (Thanks to u/adithradh on Reddit)</li>
-    <li>🐛 Fix: Display user's floating panel with sample text upon hotkey press after onboarding completion (Thanks to u/adithradh on Reddit)</li>
-    <li>🐛 Fix: Improve multi-language input compatibility by mapping hardware keyCodes to US QWERTY characters, ensuring consistent hotkey detection regardless of the active input source (Thanks to u/WillChangeMyUsername)</li>
+    <li>📚 <strong>Action Library (Beta)</strong>: New predefined action library with categorized actions (All Actions, AI, Search, etc.) - easily add common actions to your setup</li>
+    <li>🔤 <strong>Spell Checker</strong>: Built-in spell check with NSSpellChecker integration
+        <ul>
+            <li>Up to 5 suggestions per word</li>
+            <li>Custom corrections support (Add/Remove)</li>
+            <li>Ignore word option</li>
+            <li>Beautiful UI matching FloatingPanel style</li>
+        </ul>
+    </li>
+</ul>
+
+<h3>🐛 Bug Fixes</h3>
+<ul>
+    <li>Fixed intermittent F2 trigger failure where the floating panel would not appear (~25% of the time)</li>
+    <li>ESC key now works immediately during popup animation</li>
+    <li>F2 and ESC are no longer blocked by Cmd+C simulation grace period</li>
+    <li>COPY action now works more reliably</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.28.zip" 
-                sparkle:version="42" 
-                sparkle:shortVersionString="1.5.28" 
-                sparkle:edSignature="xtNiEwfLLmA1HU8wN5uYAtEfmbZVzpIeqg0F+s5skfBCEcTL7sGLcjV6IRfAUXAcNkX7lh1lYww9VoDU3yeyCg=="
-                length="11723691"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.29.zip" 
+                sparkle:version="43" 
+                sparkle:shortVersionString="1.5.29" 
+                sparkle:edSignature="lFkOY6gs+DJMWtKH/Qc8QS905uTQrnfi8Yhhh/MyWPBUGBrP0R3yCedc72ETNxQlaVY0oCrRF88/mk2mKS3lBg=="
+                length="11756620"
                 type="application/octet-stream" />
         </item>
     </channel>
