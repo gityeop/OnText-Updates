@@ -4,9 +4,9 @@
         <title>OnText Changelog</title>
         <item>
             <title>Version 1.5.29</title>
-            <pubDate>Sun, 21 Dec 2025 15:24:01 +0000</pubDate>
+            <pubDate>Sun, 21 Dec 2025 15:35:06 +0000</pubDate>
             
-            <sparkle:version>43</sparkle:version>
+            <sparkle:version>44</sparkle:version>
             
             <sparkle:shortVersionString>1.5.29</sparkle:shortVersionString>
             
@@ -38,10 +38,10 @@
             </description>
             <enclosure 
                 url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.29.zip" 
-                sparkle:version="43" 
+                sparkle:version="44" 
                 sparkle:shortVersionString="1.5.29" 
-                sparkle:edSignature="lFkOY6gs+DJMWtKH/Qc8QS905uTQrnfi8Yhhh/MyWPBUGBrP0R3yCedc72ETNxQlaVY0oCrRF88/mk2mKS3lBg=="
-                length="11756620"
+                sparkle:edSignature="Gy0CsVIVBLFwm6bLQNFUHWlws4GDpjilpZa+WxBYcmKZdFuGW3P9YV8NkC7CBz6lypXkjYIwXCDeTNTotrhYCA=="
+                length="11756739"
                 type="application/octet-stream" />
         </item>
     </channel>
