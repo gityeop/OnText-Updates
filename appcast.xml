@@ -3,50 +3,56 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.30</title>
-            <pubDate>Sun, 21 Dec 2025 15:53:41 +0000</pubDate>
+            <title>Version 1.5.31</title>
+            <pubDate>Tue, 23 Dec 2025 21:45:51 +0000</pubDate>
             
-            <sparkle:version>45</sparkle:version>
+            <sparkle:version>46</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.30</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.31</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.30 Update</h2>
+                <h2>🎉 v1.5.31 Update</h2>
 
-<h3>🐛 Critical Bug Fix</h3>
+<h3>✨ New Features</h3>
 <ul>
-    <li>🚨 <strong>Fixed 'c' character input bug</strong>: Resolved an issue where pressing F2 would sometimes replace the selected text with the character 'c' instead of copying it. This was due to a missing Command key signal in the simulation logic.</li>
-</ul>
-
-<h3>✨ New Features (from v1.5.29)</h3>
-<ul>
-    <li>📚 <strong>Action Library (Beta)</strong>: New predefined action library with categorized actions (All Actions, AI, Search, etc.) - easily add common actions to your setup</li>
-    <li>🔤 <strong>Spell Checker</strong>: Built-in spell check with NSSpellChecker integration
+    <li>🔧 <strong>Script Placeholders</strong>: New placeholders for AppleScript and Shell Script actions
         <ul>
-            <li>Up to 5 suggestions per word</li>
-            <li>Custom corrections support (Add/Remove)</li>
-            <li>Ignore word option</li>
-            <li>Beautiful UI matching FloatingPanel style</li>
+            <li><code>{textWithCopy}</code>: Captures selected text via Cmd+C to preserve line breaks and formatting (recommended when formatting is critical, as the default Accessibility API may occasionally break line breaks)</li>
+            <li><code>{text}</code>: Selected text via Accessibility API (fast, plain text only)</li>
+            <li><code>{paste}</code>: Simulates Cmd+V paste action</li>
+            <li><code>{prompt}</code>: Interactive user input with live template preview</li>
+            <li><code>{clipboard}</code>, <code>{date}</code>, <code>{time}</code>, <code>{datetime}</code>, <code>{weekday}</code> also supported</li>
         </ul>
     </li>
+    <li>📚 <strong>Action Library - Placeholder Examples</strong>: New category with practical examples for each placeholder type</li>
+    <li>👁️ <strong>Action Library - Script Preview</strong>: Click any action to view its script in the preview pane</li>
+    <li>⚡ <strong>Hybrid Accessibility API</strong>: Faster text selection using Accessibility API with Cmd+C fallback for unsupported apps</li>
+    <li>📝 <strong>Multiline Prompt Input</strong>: Prompt panel now supports multiline text input</li>
 </ul>
 
-<h3>🐛 Other Fixes</h3>
+<h3>🐛 Bug Fixes</h3>
 <ul>
-    <li>Fixed intermittent F2 trigger failure where the floating panel would not appear (~25% of the time)</li>
-    <li>ESC key now works immediately during popup animation</li>
-    <li>F2 and ESC are no longer blocked by Cmd+C simulation grace period</li>
-    <li>COPY action now works more reliably</li>
+    <li>Fixed clipboard pollution - text operations (SPELL_CHECK, case conversion) no longer overwrite clipboard</li>
+    <li>Fixed focus restoration after prompt panel closes</li>
+    <li>Fixed "Remove Correction" action only triggering when a custom correction exists</li>
+    <li>Fixed shell script special character handling (backslashes, newlines)</li>
+</ul>
+
+<h3>⚙️ Improvements</h3>
+<ul>
+    <li>Shortcut conflict resolution now uses app icon in alert dialog</li>
+    <li>Faster floating panel animations and clipboard operation delays</li>
+    <li>Prompt panel respects ESC key with global event monitor</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.30.zip" 
-                sparkle:version="45" 
-                sparkle:shortVersionString="1.5.30" 
-                sparkle:edSignature="3QZ9m7PchyTuZdGqj6oZcPt9Wghza5BDkujB9dbpkDbZx0MlDLR+IMZ9BlhKmICznCthY9jdGnRhY48hRe60BQ=="
-                length="11757043"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.31.zip" 
+                sparkle:version="46" 
+                sparkle:shortVersionString="1.5.31" 
+                sparkle:edSignature="uQW2N4REPNntO93aduhn+vGRBoNx5QTdOFc3x93DDX+0o6w0gGrX29ZvHS40KypTXiChVGoy86TwcQLnm1HQBg=="
+                length="11791209"
                 type="application/octet-stream" />
         </item>
     </channel>
