@@ -3,56 +3,37 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.31</title>
-            <pubDate>Tue, 23 Dec 2025 21:45:51 +0000</pubDate>
+            <title>Version 1.5.32</title>
+            <pubDate>Sat, 27 Dec 2025 22:32:36 +0000</pubDate>
             
-            <sparkle:version>46</sparkle:version>
+            <sparkle:version>47</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.31</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.32</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.31 Update</h2>
+                <h2>🎉 v1.5.32 Update</h2>
 
 <h3>✨ New Features</h3>
 <ul>
-    <li>🔧 <strong>Script Placeholders</strong>: New placeholders for AppleScript and Shell Script actions
+    <li>� <strong>Documentation Website</strong>: New official documentation site with interactive homepage
         <ul>
-            <li><code>{textWithCopy}</code>: Captures selected text via Cmd+C to preserve line breaks and formatting (recommended when formatting is critical, as the default Accessibility API may occasionally break line breaks)</li>
-            <li><code>{text}</code>: Selected text via Accessibility API (fast, plain text only)</li>
-            <li><code>{paste}</code>: Simulates Cmd+V paste action</li>
-            <li><code>{prompt}</code>: Interactive user input with live template preview</li>
-            <li><code>{clipboard}</code>, <code>{date}</code>, <code>{time}</code>, <code>{datetime}</code>, <code>{weekday}</code> also supported</li>
+            <li>Animated demo section with text selection preview</li>
+            <li>Feature cards with scroll animations</li>
+            <li>Light/dark mode support</li>
         </ul>
     </li>
-    <li>📚 <strong>Action Library - Placeholder Examples</strong>: New category with practical examples for each placeholder type</li>
-    <li>👁️ <strong>Action Library - Script Preview</strong>: Click any action to view its script in the preview pane</li>
-    <li>⚡ <strong>Hybrid Accessibility API</strong>: Faster text selection using Accessibility API with Cmd+C fallback for unsupported apps</li>
-    <li>📝 <strong>Multiline Prompt Input</strong>: Prompt panel now supports multiline text input</li>
-</ul>
-
-<h3>🐛 Bug Fixes</h3>
-<ul>
-    <li>Fixed clipboard pollution - text operations (SPELL_CHECK, case conversion) no longer overwrite clipboard</li>
-    <li>Fixed focus restoration after prompt panel closes</li>
-    <li>Fixed "Remove Correction" action only triggering when a custom correction exists</li>
-    <li>Fixed shell script special character handling (backslashes, newlines)</li>
-</ul>
-
-<h3>⚙️ Improvements</h3>
-<ul>
-    <li>Shortcut conflict resolution now uses app icon in alert dialog</li>
-    <li>Faster floating panel animations and clipboard operation delays</li>
-    <li>Prompt panel respects ESC key with global event monitor</li>
+    <li>☕ <strong>Support on Ko-fi</strong>: Added Ko-fi link in menu bar for easy support</li>
+    <li>� <strong>Documentation Menu</strong>: Quick access to online docs from menu bar</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.31.zip" 
-                sparkle:version="46" 
-                sparkle:shortVersionString="1.5.31" 
-                sparkle:edSignature="uQW2N4REPNntO93aduhn+vGRBoNx5QTdOFc3x93DDX+0o6w0gGrX29ZvHS40KypTXiChVGoy86TwcQLnm1HQBg=="
-                length="11791209"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.32.zip" 
+                sparkle:version="47" 
+                sparkle:shortVersionString="1.5.32" 
+                sparkle:edSignature="52CiEln7+bwq/zg2oJYojwVcN7UgmZwo13C0gEXGQY+3GTP7sqwLjz5r8pX6ZlIexa1raaucZQFPfRqD1eLMBw=="
+                length="11791762"
                 type="application/octet-stream" />
         </item>
     </channel>
