@@ -4,9 +4,9 @@
         <title>OnText Changelog</title>
         <item>
             <title>Version 1.5.33</title>
-            <pubDate>Tue, 06 Jan 2026 20:09:26 +0000</pubDate>
+            <pubDate>Tue, 06 Jan 2026 20:16:06 +0000</pubDate>
             
-            <sparkle:version>52</sparkle:version>
+            <sparkle:version>48</sparkle:version>
             
             <sparkle:shortVersionString>1.5.33</sparkle:shortVersionString>
             
@@ -19,20 +19,22 @@
     <li>🤖 <strong>Advanced AI Chat</strong>: A fully integrated chat interface with threaded history, auto-generated titles, and smart context awareness.</li>
     <li>⚡ <strong>Smart Text Actions</strong>: <ul>
         <li><strong>Replace (⌘R)</strong>: Reliable text substitution using Accessibility API with automated keyboard fallback.</li>
-        <li><strong>Smart Copy (⌘C)</strong>: Context-aware copying that prioritizes selection or last AI response.</li>
+        <li><strong>Compatibility Blocklist</strong>: Added a user-definable blocklist for apps like Apple Notes and Reminders to ensure stable text replacement.</li>
     </ul></li>
-    <li>🎨 <strong>Refined Animations</strong>: <ul>
-        <li>Natural bouncy spring animations for panel appearance.</li>
+    <li>🔧 <strong>Stability & UX</strong>: <ul>
+        <li>Fixed chat history clipping issue for smoother conversation review.</li>
+        <li>Improved focus restoration and timing for reliable application interaction.</li>
+        <li>Updated default prompts to use "selected text" for clarity.</li>
     </ul></li>
 </ul>
                 ]]>
             </description>
             <enclosure 
                 url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.33.zip" 
-                sparkle:version="52" 
+                sparkle:version="48" 
                 sparkle:shortVersionString="1.5.33" 
-                sparkle:edSignature="fPtTIMH7BLU0zz4QR/yCKUWrhF2O4QE7ENtUDW9WhvipzFxscTylCmQz0kphOZcwRdLZY3x2lpzQpFCyoRO9Ag=="
-                length="11961940"
+                sparkle:edSignature="TxDOTBCg3IIl4RkcHRjAPIPrhB/v+p6RCmPfCeQ3O5RErJLJCmAj4JbviY+HtsyLLqp3Sbs+clB4yiePjQr6CQ=="
+                length="11961926"
                 type="application/octet-stream" />
         </item>
     </channel>
