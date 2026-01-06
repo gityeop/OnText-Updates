@@ -3,37 +3,36 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.32</title>
-            <pubDate>Sat, 27 Dec 2025 22:32:36 +0000</pubDate>
+            <title>Version 1.5.33</title>
+            <pubDate>Tue, 06 Jan 2026 19:12:40 +0000</pubDate>
             
-            <sparkle:version>47</sparkle:version>
+            <sparkle:version>48</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.32</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.33</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.32 Update</h2>
+                <h2>✨ v1.5.33 Update</h2>
 
-<h3>✨ New Features</h3>
+<h3>🚀 Major Enhancement: Inline AI Module</h3>
 <ul>
-    <li>� <strong>Documentation Website</strong>: New official documentation site with interactive homepage
-        <ul>
-            <li>Animated demo section with text selection preview</li>
-            <li>Feature cards with scroll animations</li>
-            <li>Light/dark mode support</li>
-        </ul>
-    </li>
-    <li>☕ <strong>Support on Ko-fi</strong>: Added Ko-fi link in menu bar for easy support</li>
-    <li>� <strong>Documentation Menu</strong>: Quick access to online docs from menu bar</li>
+    <li>🤖 <strong>Advanced AI Chat</strong>: A fully integrated chat interface with threaded history, auto-generated titles, and smart context awareness.</li>
+    <li>⚡ <strong>Smart Text Actions</strong>: <ul>
+        <li><strong>Replace (⌘R)</strong>: Reliable text substitution using Accessibility API with automated keyboard fallback.</li>
+        <li><strong>Smart Copy (⌘C)</strong>: Context-aware copying that prioritizes selection or last AI response.</li>
+    </ul></li>
+    <li>🎨 <strong>Refined Animations</strong>: <ul>
+        <li>Natural bouncy spring animations for panel appearance.</li>
+    </ul></li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.32.zip" 
-                sparkle:version="47" 
-                sparkle:shortVersionString="1.5.32" 
-                sparkle:edSignature="52CiEln7+bwq/zg2oJYojwVcN7UgmZwo13C0gEXGQY+3GTP7sqwLjz5r8pX6ZlIexa1raaucZQFPfRqD1eLMBw=="
-                length="11791762"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.33.zip" 
+                sparkle:version="48" 
+                sparkle:shortVersionString="1.5.33" 
+                sparkle:edSignature="pEasJb1/KexZS2/3NUdAtyCufHRia7XD0QiEKv45HjEmBJVWpJQ8QzKFpr/JPhnCScykcyy69V8ZmPbX+f61BQ=="
+                length="11955249"
                 type="application/octet-stream" />
         </item>
     </channel>
