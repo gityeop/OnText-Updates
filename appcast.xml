@@ -2,12 +2,11 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>OnText Changelog</title>
-        <!-- Force refresh: 2026-01-14 03:22 -->
         <item>
             <title>Version 1.5.35</title>
-            <pubDate>Tue, 13 Jan 2026 17:58:59 +0000</pubDate>
+            <pubDate>Tue, 13 Jan 2026 20:03:07 +0000</pubDate>
             
-            <sparkle:version>50</sparkle:version>
+            <sparkle:version>60</sparkle:version>
             
             <sparkle:shortVersionString>1.5.35</sparkle:shortVersionString>
             
@@ -37,10 +36,10 @@
             </description>
             <enclosure 
                 url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.35.zip" 
-                sparkle:version="50" 
+                sparkle:version="60" 
                 sparkle:shortVersionString="1.5.35" 
-                sparkle:edSignature="UmS643c6mKJA1CyIXyWNgItc0svHFFbeRb2Cx/14VRwiH3eGVICEDhtY33ACdY0+KsYAhpp1z7WlgVnmYyEpAw=="
-                length="11999960"
+                sparkle:edSignature="l1by8rD2whmGBtM1neC4rcJ734s3UtI7lzgtLFKAB1flVBFGHT7Np4GYZJNjP/p9r4pitxP01ltuk8KuS9ODAw=="
+                length="11999980"
                 type="application/octet-stream" />
         </item>
     </channel>
