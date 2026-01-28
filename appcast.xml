@@ -3,79 +3,35 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.36</title>
-            <pubDate>Tue, 27 Jan 2026 20:30:00 +0900</pubDate>
+            <title>Version 1.5.37</title>
+            <pubDate>Wed, 28 Jan 2026 11:33:22 +0000</pubDate>
             
-            <sparkle:version>61</sparkle:version>
+            <sparkle:version>62</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.36</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.37</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.36 Update</h2>
+                <h2>🎉 v1.5.37 Update</h2>
 
-<h3>⚡ DeepL Instant Enhancements</h3>
+<h3>⚡ Features & Improvements</h3>
 <ul>
-    <li>✨ <strong>Native Language Detection</strong>: DeepL Instant now works standalone! It intelligently detects language without needing external shortcuts.</li>
-    <li>⚙️ <strong>Easy Configuration</strong>: Set your Native and Target languages on first run. It automatically toggles based on the input text.</li>
-    <li>🔄 <strong>Reset Option</strong>: Reset settings anytime by holding the <strong>Option (⌥)</strong> key while running the action.</li>
+    <li>🚀 <strong>Auto-Select Speed</strong>: Added customizable speed settings (Lightning/Normal/Stable) to optimize selection performance for your workflow.</li>
 </ul>
 
-<h3>🐛 Improvements & Fixes</h3>
+<h3>🐛 Bug Fixes</h3>
 <ul>
-    <li>🎯 <strong>Auto-Select Logic</strong>: Fixed auto-selection behavior for improved compatibility with Notion and Obsidian.</li>
-    <li>📂 <strong>Folder Action Fix</strong>: Resolved an issue where duplicate shortcuts were created when moving actions into folders.</li>
-    <li>⌨️ <strong>Shortcut Input</strong>: Restricted shortcut assignment to alphanumeric characters only for better stability.</li>
-    <li>🚀 <strong>KakaoTalk Optimization</strong>: Significantly improved Prompt Panel speed (0.2s) when selecting chat bubbles.</li>
+    <li>👻 <strong>Ghost Panel Fix</strong>: Resolved issues where the panel appeared unexpectedly or selection was lost in browsers and Electron apps.</li>
+    <li>🔒 <strong>Stability</strong>: Fixed MainActor concurrency issues to improve overall app stability.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.36.zip" 
-                sparkle:version="61" 
-                sparkle:shortVersionString="1.5.36" 
-                sparkle:edSignature="d5oK65tnVnkEVA2v+AFz10xEFleIC9mqtF35zgaKFTVOl2JcM/QHd0m3Fn+/695XwhpHSDoP0cttTBmCMUq4AA=="
-                length="12003883"
-                type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Version 1.5.35</title>
-            <pubDate>Tue, 13 Jan 2026 20:03:07 +0000</pubDate>
-            
-            <sparkle:version>60</sparkle:version>
-            
-            <sparkle:shortVersionString>1.5.35</sparkle:shortVersionString>
-            
-            <description>
-                <![CDATA[
-                <h2>✨ v1.5.35 Update</h2>
-
-<h3>🤖 Inline AI Enhancements</h3>
-<ul>
-    <li>✨ <strong>Proactive Context Sync</strong>: You can now pull focused text directly into your chat context simply by <strong>selecting or dragging over text in any window</strong>. This seamless integration ensures the AI always has the right context (this feature can be toggled in settings).</li>
-    <li>📏 <strong>Smart Auto-Scroll</strong>: The AI chat now intelligently respects your manual scrolling. During text generation, it follows your view; if you scroll up to read, it pauses, and automatically resumes following the live response once you scroll back to the bottom.</li>
-</ul>
-
-<h3>⚡ UX & Stability Improvements</h3>
-<ul>
-    <li>🎯 <strong>Smart Word Selection</strong>: Added a powerful new option to <strong>automatically select the word at your text cursor</strong> even when no text is highlighted, making AI actions and corrections faster than ever.</li>
-    <li>📏 <strong>Floating Panel UI Fix</strong>: Resolved a layout bug where the panel would remain at an incorrect small size after exiting the spell check mode.</li>
-    <li>⌨️ <strong>Standardized ESC Workflow</strong>: Pressing ESC now always closes the floating panel immediately across all states, ensuring a more consistent and predictable navigation experience.</li>
-</ul>
-
-<h3>🌍 Localization & Refinement</h3>
-<ul>
-    <li>🌐 <strong>Complete Inline AI Localization</strong>: Fully localized all previously untranslated phrases and menus within the Inline AI module for a native experience.</li>
-    <li>🔄 <strong>Real-time Language Refresh</strong>: Fixed a bug where language changes weren't immediately reflected in the Inline AI settings tab. Updates now apply instantly without a restart.</li>
-</ul>
-                ]]>
-            </description>
-            <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.35.zip" 
-                sparkle:version="60" 
-                sparkle:shortVersionString="1.5.35" 
-                sparkle:edSignature="l1by8rD2whmGBtM1neC4rcJ734s3UtI7lzgtLFKAB1flVBFGHT7Np4GYZJNjP/p9r4pitxP01ltuk8KuS9ODAw=="
-                length="11999980"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.37.zip" 
+                sparkle:version="62" 
+                sparkle:shortVersionString="1.5.37" 
+                sparkle:edSignature="Xlpi/Ni34AvbBSrcxz72Wpk+u+UnUvBpoE9Xf/SaHLEeKJejYVBxU/36PbkDe582LEMG4C3lhXzkGOGTMDtnDQ=="
+                length="11994861"
                 type="application/octet-stream" />
         </item>
     </channel>
