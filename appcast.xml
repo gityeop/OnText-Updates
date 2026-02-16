@@ -3,42 +3,30 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.39</title>
-            <pubDate>Mon, 16 Feb 2026 15:31:48 +0000</pubDate>
+            <title>Version 1.5.40</title>
+            <pubDate>Mon, 16 Feb 2026 16:01:20 +0000</pubDate>
             
-            <sparkle:version>64</sparkle:version>
+            <sparkle:version>65</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.39</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.40</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.39 Update</h2>
+                <h2>🎉 v1.5.40 Update</h2>
 <ul>
-    <li>✨ <b>ChatGPT OAuth Sign-In for Inline AI</b><br>
-        - You can now connect ChatGPT directly from Inline AI settings with OAuth login.
-    </li>
-
-    <li>🔧 <b>Inline AI Interaction Improvements</b><br>
-        - Added a new chat control flow and improved copy state behavior.<br>
-        - Refined button hover and press feedback for a smoother panel experience.<br>
-        - Improved text selection stability and panel visibility across external apps.
-    </li>
-
-    <li>🐛 <b>Important Stability Fixes</b><br>
-        - Fixed streaming session mixups between Inline AI conversations.<br>
-        - Prevented unexpected panel close during focus transfer.<br>
-        - Fixed duplicate case-convert paste in save fields.<br>
-        - Fixed overlapping referenced text in chat bubbles.
+    <li>🐛 <b>Hotfix: Inline AI Chat History Visibility</b><br>
+        - Fixed an issue where turning off conversation history could leave the chat area visible.<br>
+        - Fixed panel resizing to stay consistent immediately when chat history is hidden.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.39.zip" 
-                sparkle:version="64" 
-                sparkle:shortVersionString="1.5.39" 
-                sparkle:edSignature="Ru37j2IYcm6SKSqu55KtDR5tigiXYyZMy0D6bAt44GZXkQZ90Q4XJ7BMp3tz5fnbmLLKplXe5wa2TFHe6c6QAw=="
-                length="12055808"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.40.zip" 
+                sparkle:version="65" 
+                sparkle:shortVersionString="1.5.40" 
+                sparkle:edSignature="tVMInZrGPMNOhpH9mK5g/lkVGhihVQ61UBDEWJ9OJThclIhcbc27HhUWrjym4Sj7juJYwQcGKM3n8ik/lD1PBQ=="
+                length="12055859"
                 type="application/octet-stream" />
         </item>
     </channel>
