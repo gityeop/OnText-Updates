@@ -3,33 +3,42 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.38</title>
-            <pubDate>Sun, 01 Feb 2026 14:27:32 +0000</pubDate>
+            <title>Version 1.5.39</title>
+            <pubDate>Mon, 16 Feb 2026 15:31:48 +0000</pubDate>
             
-            <sparkle:version>63</sparkle:version>
+            <sparkle:version>64</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.38</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.39</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.38 Update</h2>
+                <h2>🎉 v1.5.39 Update</h2>
 <ul>
-    <li>✨ <b>Enhanced Inline AI Experience</b><br>
-        - Selected text is now clearly displayed at the top of your message.<br>
-        - <b>Dynamic Selection Sync:</b> Selecting different text during a conversation instantly updates the referenced text in your message bubble.
+    <li>✨ <b>ChatGPT OAuth Sign-In for Inline AI</b><br>
+        - You can now connect ChatGPT directly from Inline AI settings with OAuth login.
     </li>
-    <li>🔧 <b>Improved Selection Detection</b><br>
-        - <b>Generic Web Apps:</b> Fixed an issue where text selection was not recognized on certain websites (e.g. Reddit) due to limited Accessibility API support.
+
+    <li>🔧 <b>Inline AI Interaction Improvements</b><br>
+        - Added a new chat control flow and improved copy state behavior.<br>
+        - Refined button hover and press feedback for a smoother panel experience.<br>
+        - Improved text selection stability and panel visibility across external apps.
+    </li>
+
+    <li>🐛 <b>Important Stability Fixes</b><br>
+        - Fixed streaming session mixups between Inline AI conversations.<br>
+        - Prevented unexpected panel close during focus transfer.<br>
+        - Fixed duplicate case-convert paste in save fields.<br>
+        - Fixed overlapping referenced text in chat bubbles.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.38.zip" 
-                sparkle:version="63" 
-                sparkle:shortVersionString="1.5.38" 
-                sparkle:edSignature="gLmG0oWSzsiNJctdMaM/gC8tI6LAsZluZOKC3/pLWdHO1vqUcuhByQW/LHl9sxKRF5K5su70UdWV1267OkKADg=="
-                length="11998273"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.39.zip" 
+                sparkle:version="64" 
+                sparkle:shortVersionString="1.5.39" 
+                sparkle:edSignature="Ru37j2IYcm6SKSqu55KtDR5tigiXYyZMy0D6bAt44GZXkQZ90Q4XJ7BMp3tz5fnbmLLKplXe5wa2TFHe6c6QAw=="
+                length="12055808"
                 type="application/octet-stream" />
         </item>
     </channel>
