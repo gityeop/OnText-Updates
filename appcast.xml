@@ -3,30 +3,34 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.40</title>
-            <pubDate>Mon, 16 Feb 2026 16:01:20 +0000</pubDate>
+            <title>Version 1.5.41</title>
+            <pubDate>Mon, 23 Feb 2026 14:23:23 +0000</pubDate>
             
-            <sparkle:version>65</sparkle:version>
+            <sparkle:version>66</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.40</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.41</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.40 Update</h2>
+                <h2>🎉 v1.5.41 Update</h2>
 <ul>
-    <li>🐛 <b>Hotfix: Inline AI Chat History Visibility</b><br>
-        - Fixed an issue where turning off conversation history could leave the chat area visible.<br>
-        - Fixed panel resizing to stay consistent immediately when chat history is hidden.
+    <li>🐛 <b>Inline AI panel resize fixes</b><br>
+        - Fixed reversed resize direction when dragging panel borders.<br>
+        - Improved border hit area so resizing is easier.<br>
+        - Improved shrinking behavior and saved panel height between opens.
+    </li>
+    <li>💄 <b>Inline AI action button visibility</b><br>
+        - Improved readability of disabled Copy/Replace button labels over varying backgrounds.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.40.zip" 
-                sparkle:version="65" 
-                sparkle:shortVersionString="1.5.40" 
-                sparkle:edSignature="tVMInZrGPMNOhpH9mK5g/lkVGhihVQ61UBDEWJ9OJThclIhcbc27HhUWrjym4Sj7juJYwQcGKM3n8ik/lD1PBQ=="
-                length="12055859"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.41.zip" 
+                sparkle:version="66" 
+                sparkle:shortVersionString="1.5.41" 
+                sparkle:edSignature="O5rk/9L0bHsxhWpGL9l1rlr62kGKARY+m2xfUEJ056Uq4c2TfzM7z5CirK5yLvn8PD88HSTOPTE74sOcrPMcBg=="
+                length="12061792"
                 type="application/octet-stream" />
         </item>
     </channel>
