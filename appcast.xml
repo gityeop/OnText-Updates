@@ -3,34 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.41</title>
-            <pubDate>Mon, 23 Feb 2026 14:23:23 +0000</pubDate>
+            <title>Version 1.5.42</title>
+            <pubDate>Mon, 23 Feb 2026 14:55:23 +0000</pubDate>
             
-            <sparkle:version>66</sparkle:version>
+            <sparkle:version>67</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.41</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.42</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.41 Update</h2>
+                <h2>🎉 v1.5.42 Update</h2>
 <ul>
-    <li>🐛 <b>Inline AI panel resize fixes</b><br>
-        - Fixed reversed resize direction when dragging panel borders.<br>
-        - Improved border hit area so resizing is easier.<br>
-        - Improved shrinking behavior and saved panel height between opens.
-    </li>
-    <li>💄 <b>Inline AI action button visibility</b><br>
-        - Improved readability of disabled Copy/Replace button labels over varying backgrounds.
+    <li>🐛 <b>Inline AI Button Readability</b><br>
+        - Improved disabled Copy/Replace label visibility on varied backgrounds.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.41.zip" 
-                sparkle:version="66" 
-                sparkle:shortVersionString="1.5.41" 
-                sparkle:edSignature="O5rk/9L0bHsxhWpGL9l1rlr62kGKARY+m2xfUEJ056Uq4c2TfzM7z5CirK5yLvn8PD88HSTOPTE74sOcrPMcBg=="
-                length="12061792"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.42.zip" 
+                sparkle:version="67" 
+                sparkle:shortVersionString="1.5.42" 
+                sparkle:edSignature="Ev2ZZKPt9Wn/YVf1sjaHB0++C70lcC3vyaqnMzqajjfPvN2KD4VUaJXS4GGgSluia1eOgTcrQaX83ED+MfDsAQ=="
+                length="12055999"
                 type="application/octet-stream" />
         </item>
     </channel>
