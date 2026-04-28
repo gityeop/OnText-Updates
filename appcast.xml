@@ -3,29 +3,36 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.42</title>
-            <pubDate>Mon, 23 Feb 2026 14:55:23 +0000</pubDate>
+            <title>Version 1.5.43</title>
+            <pubDate>Tue, 28 Apr 2026 18:52:49 +0000</pubDate>
             
-            <sparkle:version>67</sparkle:version>
+            <sparkle:version>68</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.42</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.43</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.42 Update</h2>
+                <h2>🎉 v1.5.43 Update</h2>
 <ul>
-    <li>🐛 <b>Inline AI Button Readability</b><br>
-        - Improved disabled Copy/Replace label visibility on varied backgrounds.
+    <li>🔧 <b>Menu Bar Support Link</b><br>
+        - The “Support on Ko-fi” menu item now remains available for Free users and is hidden for Pro license holders.
+    </li>
+    <li>💄 <b>License Tab Updates</b><br>
+        - Updated Free Tier and Pro Features descriptions to clarify Ko-fi menu behavior.
+    </li>
+    <li>✨ <b>OpenAI OAuth Model Updates</b><br>
+        - Added GPT-5.5 and GPT-5.5 pro to the ChatGPT OAuth model list.<br>
+        - Added non-streaming handling for GPT-5.5 pro responses.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.42.zip" 
-                sparkle:version="67" 
-                sparkle:shortVersionString="1.5.42" 
-                sparkle:edSignature="Ev2ZZKPt9Wn/YVf1sjaHB0++C70lcC3vyaqnMzqajjfPvN2KD4VUaJXS4GGgSluia1eOgTcrQaX83ED+MfDsAQ=="
-                length="12055999"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.43.zip" 
+                sparkle:version="68" 
+                sparkle:shortVersionString="1.5.43" 
+                sparkle:edSignature="n5XAXI6Cko5ThtFNRhlo0BDVXkqb/Cgb7s3+3/yeh5Odrob/wTpfrGY0T1QuUKY2LxCAg9owf7I8+qPEVOb1Ag=="
+                length="12039263"
                 type="application/octet-stream" />
         </item>
     </channel>
