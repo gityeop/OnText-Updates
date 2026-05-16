@@ -3,40 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.44</title>
-            <pubDate>Thu, 14 May 2026 19:17:47 +0000</pubDate>
+            <title>Version 1.5.45</title>
+            <pubDate>Sat, 16 May 2026 06:16:40 +0000</pubDate>
             
-            <sparkle:version>69</sparkle:version>
+            <sparkle:version>70</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.44</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.45</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.44 Update</h2>
+                <h2>🎉 v1.5.45 Update</h2>
 <ul>
-    <li>✨ <b>Inline AI Attachments</b><br>
-        - Inline AI now supports attachments in prompts, including images, PDFs, and text-based documents.<br>
-        - Supported file types include PNG, JPEG, WebP, PDF, TXT, Markdown, CSV, JSON, XML, HTML, and log files.<br>
-        - Attachments can be added from the attachment button, drag and drop, or pasted from the clipboard when available.<br>
-        - PDF and text document support may depend on the selected AI provider; Ollama currently supports image attachments only.
-    </li>
-    <li>🔧 <b>Inline AI Markdown Rendering</b><br>
-        - Inline AI responses now render more Markdown formats correctly, including headings, emphasis, strikethrough, inline code, code blocks, blockquotes, checklists, horizontal rules, footnotes, math-style content, HTML-like content, and tables.<br>
-        - Table rendering now preserves row and column layout more reliably, including aligned columns and wrapped long cell content.
-    </li>
-    <li>🚀 <b>Inline AI Panel Scrolling Performance</b><br>
-        - Long conversations and streaming responses should now feel smoother.<br>
-        - The panel reduces unnecessary layout recalculation while answers are streaming, keeps the chat area more stable, and coalesces auto-scroll updates to reduce stutter.
+    <li>💄 <b>App Icon Rendering Fix</b><br>
+        - Fixed the app icon rendering with extra padding in Spotlight, Sparkle update dialogs, and app icon previews.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.44.zip" 
-                sparkle:version="69" 
-                sparkle:shortVersionString="1.5.44" 
-                sparkle:edSignature="no9rQlKAUATA8EDL3CoY/ZasEMoCIwTwky15r1pK9wZ87ZLZ/QASRA0Rm8EIDBK5CgTavkKAgMvG33/ml/d1AA=="
-                length="12119428"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.45.zip" 
+                sparkle:version="70" 
+                sparkle:shortVersionString="1.5.45" 
+                sparkle:edSignature="Md5zX0nsmDbmueP51AMmFEFwW0bYemISgU9bIF3Pq7/EF3+Myag9S6KRlAXgGPMhLYdBcF0o/mCKGOp4rQ/XCA=="
+                length="13356382"
                 type="application/octet-stream" />
         </item>
     </channel>
