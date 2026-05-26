@@ -3,35 +3,32 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.47</title>
-            <pubDate>Mon, 25 May 2026 13:54:55 +0000</pubDate>
+            <title>Version 1.5.48</title>
+            <pubDate>Tue, 26 May 2026 14:59:48 +0000</pubDate>
             
-            <sparkle:version>72</sparkle:version>
+            <sparkle:version>73</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.47</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.48</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.47 Update</h2>
+                <h2>v1.5.48 Update</h2>
 <ul>
-    <li>✨ <b>Intel Mac Support</b><br>
-        - OnText now ships as a universal app for both Apple Silicon and Intel Macs.
+    <li><b>App icon display fix</b><br>
+        - Fixed the OnText app icon appearance in Finder list view and Activity Monitor.
     </li>
-    <li>🐛 <b>Hotkey Reliability Fix</b><br>
-        - Improved global hotkey handling so the floating panel appears reliably across supported Macs.
-    </li>
-    <li>🔧 <b>AI Action Reliability</b><br>
-        - Updated default ChatGPT and Gemini actions to paste selected text more reliably.
+    <li><b>Small icon rendering improvement</b><br>
+        - Rebuilt the small icon slots so corners stay clean while the icon remains readable at list-view sizes.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.47.zip" 
-                sparkle:version="72" 
-                sparkle:shortVersionString="1.5.47" 
-                sparkle:edSignature="t57lxWNp6dd7XgP3YG3Udj8Qsm62W1XW0YkGp+Pc0vttpiABwyVujPAw6tphDMWgVBrTvhUjuG5zjGL/JPzyCA=="
-                length="14301273"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.48.zip" 
+                sparkle:version="73" 
+                sparkle:shortVersionString="1.5.48" 
+                sparkle:edSignature="M1sNMuEBsQYMSU4irgnQS2w1CmdJM3y1Ts5uWA2Go+obj+9cfX7emrIdj4y1hKUh3hxb6+fLT84sv7xHXcZWDQ=="
+                length="14291961"
                 type="application/octet-stream" />
         </item>
     </channel>
