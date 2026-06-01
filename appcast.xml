@@ -3,32 +3,35 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.48</title>
-            <pubDate>Tue, 26 May 2026 14:59:48 +0000</pubDate>
+            <title>Version 1.5.49</title>
+            <pubDate>Mon, 01 Jun 2026 03:00:34 +0000</pubDate>
             
-            <sparkle:version>73</sparkle:version>
+            <sparkle:version>74</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.48</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.49</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>v1.5.48 Update</h2>
+                <h2>v1.5.49 Update</h2>
 <ul>
-    <li><b>App icon display fix</b><br>
-        - Fixed the OnText app icon appearance in Finder list view and Activity Monitor.
+    <li><b>Inline AI response bubble fix</b><br>
+        - Assistant response bubbles now appear immediately when sending follow-up messages.
     </li>
-    <li><b>Small icon rendering improvement</b><br>
-        - Rebuilt the small icon slots so corners stay clean while the icon remains readable at list-view sizes.
+    <li><b>Inline AI loading animation</b><br>
+        - Replaced the temporary text placeholder with animated loading dots while the provider is responding.
+    </li>
+    <li><b>Empty response handling</b><br>
+        - Inline AI now shows an explicit error in the assistant bubble if a provider stream finishes without content.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.48.zip" 
-                sparkle:version="73" 
-                sparkle:shortVersionString="1.5.48" 
-                sparkle:edSignature="M1sNMuEBsQYMSU4irgnQS2w1CmdJM3y1Ts5uWA2Go+obj+9cfX7emrIdj4y1hKUh3hxb6+fLT84sv7xHXcZWDQ=="
-                length="14291961"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.49.zip" 
+                sparkle:version="74" 
+                sparkle:shortVersionString="1.5.49" 
+                sparkle:edSignature="/9/ZWBwtcz8LeJ1WifKbB1HYDgKtc1fsfvg3WCPCSXH63izY3SNHhZox3KZRX+B7vCb84W31FuFfH4huFiFbAg=="
+                length="14298233"
                 type="application/octet-stream" />
         </item>
     </channel>
