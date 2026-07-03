@@ -3,47 +3,30 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.51</title>
-            <pubDate>Wed, 01 Jul 2026 03:20:25 +0000</pubDate>
+            <title>Version 1.5.52</title>
+            <pubDate>Fri, 03 Jul 2026 06:01:36 +0000</pubDate>
             
-            <sparkle:version>76</sparkle:version>
+            <sparkle:version>77</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.51</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.52</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.51 Update</h2>
+                <h2>🎉 v1.5.52 Update</h2>
 <ul>
-    <li>🐛 <b>Update Package Hotfix</b><br>
-        - Fixed the release package so the latest app binary is included correctly.<br>
-        - Restores the macOS 26 Liquid Glass settings window and removes the old Simulation Speed setting from updated installs.
-    </li>
-    <li>💎 <b>macOS 26 Liquid Glass Settings</b><br>
-        - Redesigned the macOS 26 settings window with Liquid Glass styling across General, Actions, Inline AI, and License tabs.<br>
-        - Added an option to keep using the classic settings window on macOS 26.<br>
-        - Preserved the existing settings window for older macOS versions.
-    </li>
-    <li>✨ <b>Actions Settings Redesign</b><br>
-        - Rebuilt the Actions tab around a floating panel preview, inline action details, and a compact unused actions list.<br>
-        - Added drag and drop for arranging actions, moving actions in and out of folders, and managing unused actions more naturally.
-    </li>
-    <li>🔧 <b>Selection and Replacement Reliability</b><br>
-        - Improved selected text handling in apps that do not expose selection through Accessibility APIs.<br>
-        - Simplified replacement behavior and removed the Direct Replacement Blocklist setting.
-    </li>
-    <li>🎨 <b>UI Polish</b><br>
-        - Improved dark mode contrast in Action Library.<br>
-        - Refined Inline AI controls, app icon lists, License tab spacing, and alert icons so they use the selected OnText app icon.
+    <li>✨ <b>3 Macs License Option</b><br>
+        - Added support for the new OnText Pro - 3 Macs Gumroad option.<br>
+        - A single 3 Macs license key can now activate OnText Pro on up to three Macs.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.51.zip" 
-                sparkle:version="76" 
-                sparkle:shortVersionString="1.5.51" 
-                sparkle:edSignature="usqWPadmHv6k8je/MNOlvuvE2h3y9jNvAkMw8o3MSTZ6pvKSxgpoPW/KM6272IY2x3yEV2ptKfbwddWsyBr0Dg=="
-                length="12650362"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.52.zip" 
+                sparkle:version="77" 
+                sparkle:shortVersionString="1.5.52" 
+                sparkle:edSignature="SGP8ubIxkdqXbAPAuL9asDw7e8uEzvV9xzGldcaSICGS4y2L79QubftldtkDIDfgOI/ycSXsPseTbF0NIsgzCQ=="
+                length="12653546"
                 type="application/octet-stream" />
         </item>
     </channel>
