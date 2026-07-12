@@ -3,37 +3,31 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.54</title>
-            <pubDate>Tue, 07 Jul 2026 23:06:20 +0000</pubDate>
+            <title>Version 1.5.55</title>
+            <pubDate>Sun, 12 Jul 2026 16:38:43 +0000</pubDate>
             
-            <sparkle:version>79</sparkle:version>
+            <sparkle:version>80</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.54</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.55</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.54 Update</h2>
+                <h2>🎉 v1.5.55 Update</h2>
 <ul>
-    <li>✨ <b>Built-in Text Transformations</b><br>
-        - Added built-in text transformations for case conversion, naming conventions, whitespace cleanup, line sorting, duplicate line removal, and text reversal.<br>
-        - Added a Text Transform folder so the new actions stay organized instead of crowding the main action list.
-    </li>
-    <li>🔧 <b>Folder Context Regex</b><br>
-        - Folders can now use Context (Regex), so action groups appear only when selected text matches the folder condition.
-    </li>
-    <li>🎨 <b>Action Settings Polish</b><br>
-        - Improved built-in action labels in settings with readable names like Copy, Large Type, and Spell Check while preserving the existing internal templates.<br>
-        - Added a subtle folder dot indicator in the new settings preview and floating panel.
+    <li>⌨️ <b>Interactive Actions Keymap</b><br>
+        - Added a Keymap below the Actions settings to visualize Trigger, Action, Apple Shortcut, and Folder keys.<br>
+        - Click a key to search and assign an item from the current preview folder, or click Trigger Shortcut to update the trigger directly.<br>
+        - Added punctuation keys and dimmed styling for unused or disabled actions.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.54.zip" 
-                sparkle:version="79" 
-                sparkle:shortVersionString="1.5.54" 
-                sparkle:edSignature="RT9nxBTEwyOhkggk2GdDoeMPfwx7uIke66fwSOHU6yHdLuGqLEZsHxX1Nh4f1s9tu4Gt6O3OBXsvxEKzMuCpBw=="
-                length="13980515"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.55.zip" 
+                sparkle:version="80" 
+                sparkle:shortVersionString="1.5.55" 
+                sparkle:edSignature="v1ugJeKhK8Z7xUZkn+peibsEYuyz1dKEP4bUDLzzTjA+cI0nxIDP85xtVgb9+BoNHQXjNCJMvFt+j6DVLdzJDw=="
+                length="14267578"
                 type="application/octet-stream" />
         </item>
     </channel>
