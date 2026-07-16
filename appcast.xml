@@ -3,32 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.58</title>
-            <pubDate>Thu, 16 Jul 2026 21:10:00 +0000</pubDate>
+            <title>Version 1.5.59</title>
+            <pubDate>Thu, 16 Jul 2026 21:36:55 +0000</pubDate>
             
-            <sparkle:version>83</sparkle:version>
+            <sparkle:version>84</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.58</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.59</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.58 Update</h2>
+                <h2>🎉 v1.5.59 Update</h2>
 <ul>
-    <li>🔐 <b>Live Accessibility Permission Status</b><br>
-        - Added a dedicated permission guide with real-time status updates across the menu bar and Settings.
-    </li>
-    <li>🤖 <b>Inline AI Provider Updates</b><br>
-        - Updated supported provider models and improved provider response and error handling.
+    <li>💄 <b>Accessibility Menu Cleanup</b><br>
+        - The Accessibility status item now appears only when permission is required.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.58.zip" 
-                sparkle:version="83" 
-                sparkle:shortVersionString="1.5.58" 
-                sparkle:edSignature="UJyWeqUKaWuaFoLjRHrNmBZ+fSjD0qke4WtwczXXJOMPg6N3xsjzuXSQh/aRLGC5Ol2rKN4HbwlAQ4/eJntGBg=="
-                length="15421722"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.59.zip" 
+                sparkle:version="84" 
+                sparkle:shortVersionString="1.5.59" 
+                sparkle:edSignature="PKGB8v3plzcaFGg638YT46y4BKrVOzl41Yg1l42mYnzWJ0q5ncws7R237SQbHmKf7P9v7fG4e6Fx0aSiEcDNAA=="
+                length="15421459"
                 type="application/octet-stream" />
         </item>
     </channel>
