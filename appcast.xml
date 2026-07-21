@@ -3,29 +3,33 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.59</title>
-            <pubDate>Thu, 16 Jul 2026 21:36:55 +0000</pubDate>
+            <title>Version 1.5.60</title>
+            <pubDate>Tue, 21 Jul 2026 23:44:46 +0000</pubDate>
             
-            <sparkle:version>84</sparkle:version>
+            <sparkle:version>85</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.59</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.60</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.59 Update</h2>
+                <h2>🎉 v1.5.60 Update</h2>
 <ul>
-    <li>💄 <b>Accessibility Menu Cleanup</b><br>
-        - The Accessibility status item now appears only when permission is required.
+    <li>💄 <b>Compact Accessibility Status</b><br>
+        - Replaced the large Accessibility card in General settings with a compact permission icon beside Trigger Shortcut.<br>
+        - A green check shows permission is granted; a red warning icon opens Accessibility settings when clicked.
+    </li>
+    <li>🎨 <b>System Icon Rendering</b><br>
+        - Removed duplicate runtime padding and adopted the native macOS app icon format, so OnText now fills its icon area correctly in Activity Monitor and Accessibility settings.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.59.zip" 
-                sparkle:version="84" 
-                sparkle:shortVersionString="1.5.59" 
-                sparkle:edSignature="PKGB8v3plzcaFGg638YT46y4BKrVOzl41Yg1l42mYnzWJ0q5ncws7R237SQbHmKf7P9v7fG4e6Fx0aSiEcDNAA=="
-                length="15421459"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.60.zip" 
+                sparkle:version="85" 
+                sparkle:shortVersionString="1.5.60" 
+                sparkle:edSignature="a5mYi140L6T325dwiZFo496XJ+hRtoCmqWCkEO50NrczYTlKv81N1C4RQ2UQjPnGtoJE6k3YbJKWNP1U9zUKBQ=="
+                length="22988260"
                 type="application/octet-stream" />
         </item>
     </channel>
