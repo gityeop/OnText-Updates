@@ -3,38 +3,35 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.61</title>
-            <pubDate>Tue, 11 Aug 2026 17:07:20 +0000</pubDate>
+            <title>Version 1.5.62</title>
+            <pubDate>Wed, 19 Aug 2026 11:59:52 +0000</pubDate>
             
-            <sparkle:version>86</sparkle:version>
+            <sparkle:version>87</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.61</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.62</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.61 Update</h2>
+                <h2>🎉 v1.5.62 Update</h2>
 <ul>
-    <li>🔐 <b>Safer Script Inputs</b><br>
-        - Shell Script actions now receive selected text, copied text, clipboard text, and prompt input through quoted <code>ONTEXT_*</code> environment variables instead of inserting them into command source.<br>
-        - Existing Shell actions show a reviewable migration before running, while commands that cannot be migrated safely stop with clear guidance.<br>
-        - AppleScript actions now pass user-controlled placeholder values as runtime data instead of inserting them into AppleScript source.
+    <li>✨ <b>Create Actions with AI</b><br>
+        - Describe the action you want, refine it through conversation, test it, and save it directly to OnText.
     </li>
-    <li>💄 <b>Dialog and Settings Polish</b><br>
-        - Fixed prompt, preview, and command-error text that could become unreadable in Light or Dark appearance.<br>
-        - Refined the Liquid Glass Actions preview shadow and spacing, and removed unwanted scrolling and scrollbars.
+    <li>💬 <b>Continue Previous Work</b><br>
+        - Reopen earlier action conversations and update installed actions without starting over.
     </li>
-    <li>📚 <b>Safer Script Documentation</b><br>
-        - Updated Shell Script examples to use quoted environment variables and added clear guidance for clipboard text and legacy action migration.
+    <li>🛠 <b>Smoother and More Reliable</b><br>
+        - Improved editing, scrolling, icon and emoji selection, and app icon sizing.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.61.zip" 
-                sparkle:version="86" 
-                sparkle:shortVersionString="1.5.61" 
-                sparkle:edSignature="k5IKZH0rvwlPMUqPRYqm6XP5wuP7rVjy6wZq/0+c99qsjSgYKvp13paX69TA38m6RUnsmpfp1uXraivqggovDA=="
-                length="23064552"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.62.zip" 
+                sparkle:version="87" 
+                sparkle:shortVersionString="1.5.62" 
+                sparkle:edSignature="zbMvqiQ9ly8dtwLu0d2EJxh2x2Wy2FapYIwmJO7rv5EebAQL7loNseeZW5SH0k1nTy0H1+87ITcns1M0MmHMCg=="
+                length="23704100"
                 type="application/octet-stream" />
         </item>
     </channel>
