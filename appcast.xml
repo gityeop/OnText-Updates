@@ -3,35 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.62</title>
-            <pubDate>Wed, 19 Aug 2026 11:59:52 +0000</pubDate>
+            <title>Version 1.5.63</title>
+            <pubDate>Tue, 25 Aug 2026 21:51:08 +0000</pubDate>
             
-            <sparkle:version>87</sparkle:version>
+            <sparkle:version>88</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.62</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.63</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.62 Update</h2>
+                <h2>🎉 v1.5.63 Update</h2>
 <ul>
-    <li>✨ <b>Create Actions with AI</b><br>
-        - Describe the action you want, refine it through conversation, test it, and save it directly to OnText.
-    </li>
-    <li>💬 <b>Continue Previous Work</b><br>
-        - Reopen earlier action conversations and update installed actions without starting over.
-    </li>
-    <li>🛠 <b>Smoother and More Reliable</b><br>
-        - Improved editing, scrolling, icon and emoji selection, and app icon sizing.
+    <li>⚡ <b>Provider-Aware Speed and Reasoning</b><br>
+        - Added reasoning strength and Fast settings for supported Inline AI models.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.62.zip" 
-                sparkle:version="87" 
-                sparkle:shortVersionString="1.5.62" 
-                sparkle:edSignature="zbMvqiQ9ly8dtwLu0d2EJxh2x2Wy2FapYIwmJO7rv5EebAQL7loNseeZW5SH0k1nTy0H1+87ITcns1M0MmHMCg=="
-                length="23704100"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.63.zip" 
+                sparkle:version="88" 
+                sparkle:shortVersionString="1.5.63" 
+                sparkle:edSignature="WYsnG+xMwQskBByT44RMTAAKEsQnivZccYg/67l9b6MXri6zOfTCtNoxcJtjA6oVr9r0AYhbp8xouiPnBjyMBA=="
+                length="23845986"
                 type="application/octet-stream" />
         </item>
     </channel>
