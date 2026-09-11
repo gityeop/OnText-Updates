@@ -3,32 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.64</title>
-            <pubDate>Thu, 03 Sep 2026 16:12:18 +0000</pubDate>
+            <title>Version 1.5.65</title>
+            <pubDate>Fri, 11 Sep 2026 19:38:00 +0000</pubDate>
             
-            <sparkle:version>89</sparkle:version>
+            <sparkle:version>90</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.64</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.65</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.64 Update</h2>
+                <h2>🎉 v1.5.65 Update</h2>
 <ul>
-    <li>✨ <b>Simpler Onboarding</b><br>
-        - Simplified the onboarding experience.
-    </li>
-    <li>🧭 <b>Cleaner Menu Navigation</b><br>
-        - Reorganized Settings, Getting Started, Documentation, and Quit for quicker access.
+    <li>🐛 <b>AI Action Studio Test Fix</b><br>
+        - Fixed Save Action and Update Action remaining disabled when a test action pastes into Text Input.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.64.zip" 
-                sparkle:version="89" 
-                sparkle:shortVersionString="1.5.64" 
-                sparkle:edSignature="C1P5/Lxdw8ZA6kdT4hmndgpRVsETkB1mphN+MoFlDTqBpWoNMhZyz2lmCw2NoI7eM0Y/l6R/OiUhZltNcZJ0BQ=="
-                length="23976965"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.65.zip" 
+                sparkle:version="90" 
+                sparkle:shortVersionString="1.5.65" 
+                sparkle:edSignature="8fz3BTWPGjzckGdrxgl0tGX8sAjNQc7Z3EnUr9NsgMymExx3JEDf0JJDyp9qOQwl42n/c2b24OcFgPDrh9eOBA=="
+                length="23976933"
                 type="application/octet-stream" />
         </item>
     </channel>
