@@ -3,29 +3,31 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.65</title>
-            <pubDate>Fri, 11 Sep 2026 19:38:00 +0000</pubDate>
+            <title>Version 1.5.66</title>
+            <pubDate>Fri, 11 Sep 2026 23:44:34 +0000</pubDate>
             
-            <sparkle:version>90</sparkle:version>
+            <sparkle:version>91</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.65</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.66</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.65 Update</h2>
+                <h2>🎉 v1.5.66 Update</h2>
 <ul>
-    <li>🐛 <b>AI Action Studio Test Fix</b><br>
-        - Fixed Save Action and Update Action remaining disabled when a test action pastes into Text Input.
+    <li>📎 <b>Attach Actions in Create with AI</b><br>
+        - Attach existing actions to your conversation so AI can use their code and settings as reference.<br>
+        - Search and select multiple actions from the + button, with a compact Liquid Glass picker and smooth scrolling.<br>
+        - Attached actions stay with your conversation history for follow-up changes.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.65.zip" 
-                sparkle:version="90" 
-                sparkle:shortVersionString="1.5.65" 
-                sparkle:edSignature="8fz3BTWPGjzckGdrxgl0tGX8sAjNQc7Z3EnUr9NsgMymExx3JEDf0JJDyp9qOQwl42n/c2b24OcFgPDrh9eOBA=="
-                length="23976933"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.66.zip" 
+                sparkle:version="91" 
+                sparkle:shortVersionString="1.5.66" 
+                sparkle:edSignature="5VYcxC6LCdWYWoq4QswTgski8g/RF3DULVt9TtValqUew2fzaFOrbUn8I1rr8NnWL/xMbGu9laPECme3DTkFDQ=="
+                length="24106851"
                 type="application/octet-stream" />
         </item>
     </channel>
