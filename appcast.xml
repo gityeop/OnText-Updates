@@ -3,31 +3,43 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.66</title>
-            <pubDate>Fri, 11 Sep 2026 23:44:34 +0000</pubDate>
+            <title>Version 1.5.67</title>
+            <pubDate>Tue, 15 Sep 2026 05:02:28 +0000</pubDate>
             
-            <sparkle:version>91</sparkle:version>
+            <sparkle:version>92</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.66</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.67</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.66 Update</h2>
+                <h2>🎉 v1.5.67 Update</h2>
 <ul>
-    <li>📎 <b>Attach Actions in Create with AI</b><br>
-        - Attach existing actions to your conversation so AI can use their code and settings as reference.<br>
-        - Search and select multiple actions from the + button, with a compact Liquid Glass picker and smooth scrolling.<br>
-        - Attached actions stay with your conversation history for follow-up changes.
+    <li>✨ <b>Instant Results</b><br>
+        - See calculations, conversions, and script results directly in the OnText panel.<br>
+        - Build the Instant Results you want to see in your panel with Create with AI.<br>
+        - Customize colors and multi-line results, then preview them with Run Test.<br>
+        - Get started with Kilometers to Miles, now available in the Action Library.
+    </li>
+    <li>⌨️ <b>Create with AI Improvements</b><br>
+        - Set action shortcuts directly or request them in conversation. New actions automatically receive an available key, with confirmation before replacing an existing assignment.<br>
+        - Create Instant Results actions with AI and test their output before saving.<br>
+        - The + attachment button now sits at the bottom-left of the message composer.
+    </li>
+    <li>🌐 <b>Language Support</b><br>
+        - Instant Results controls and validation messages are available in English, Korean, and Chinese.
+    </li>
+    <li>🎨 <b>Custom Icon Colors</b><br>
+        - Custom action icons now keep their original colors and transparency in the icon picker and Settings previews.
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.66.zip" 
-                sparkle:version="91" 
-                sparkle:shortVersionString="1.5.66" 
-                sparkle:edSignature="5VYcxC6LCdWYWoq4QswTgski8g/RF3DULVt9TtValqUew2fzaFOrbUn8I1rr8NnWL/xMbGu9laPECme3DTkFDQ=="
-                length="24106851"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.67.zip" 
+                sparkle:version="92" 
+                sparkle:shortVersionString="1.5.67" 
+                sparkle:edSignature="9BmQvi71TTBmWRzBsABtsT20WJ+aYccZpKgRGlUMpgMqYarzoC7p+PXHPzPpLOwn2HiPWsa11tHN6paevFxJDw=="
+                length="24420678"
                 type="application/octet-stream" />
         </item>
     </channel>
