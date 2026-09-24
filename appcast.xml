@@ -3,31 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.68</title>
-            <pubDate>Wed, 16 Sep 2026 17:55:59 +0000</pubDate>
+            <title>Version 1.5.69</title>
+            <pubDate>Thu, 24 Sep 2026 02:33:12 +0000</pubDate>
             
-            <sparkle:version>93</sparkle:version>
+            <sparkle:version>94</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.68</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.69</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.68 Update</h2>
+                <h2>🎉 v1.5.69 Update</h2>
 <ul>
-    <li>✨ <b>GPT-6 Astra Support</b><br>
-        - Use GPT-6 Astra in Inline AI and Create with AI through ChatGPT sign-in or an OpenAI API key.<br>
-        - Choose reasoning strength from Low to Max, with Fast mode available for supported API accounts.<br>
-        - Refresh the model list in Inline AI settings to select GPT-6 Astra.
+    <li>✨ <b>GPT-6 Sol and Luna Support</b><br>
+        - Choose GPT-6 Sol or GPT-6 Luna in Inline AI and Create with AI through ChatGPT sign-in or an OpenAI API key.<br>
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.68.zip" 
-                sparkle:version="93" 
-                sparkle:shortVersionString="1.5.68" 
-                sparkle:edSignature="cev3miL8U3aMQjVzZsyXfxDq3P1tnSjSERtyDGhzSqt0RIJz91J/sXAL4l/zVKa8Q6LiunS4HtXVSDoF1jJZBw=="
-                length="24420745"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.69.zip" 
+                sparkle:version="94" 
+                sparkle:shortVersionString="1.5.69" 
+                sparkle:edSignature="YHoBj+oqgOJ+elKD+kyprjfu33IJ631SMBzHlzgCrcFq8wXtG/M9QDbRtBTrM8/5HMyiA5E6YiWIpHSQgNghAw=="
+                length="24475345"
                 type="application/octet-stream" />
         </item>
     </channel>
