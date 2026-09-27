@@ -3,29 +3,39 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.69</title>
-            <pubDate>Thu, 24 Sep 2026 02:33:12 +0000</pubDate>
+            <title>Version 1.5.70</title>
+            <pubDate>Sun, 27 Sep 2026 10:08:38 +0000</pubDate>
             
-            <sparkle:version>94</sparkle:version>
+            <sparkle:version>95</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.69</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.70</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎉 v1.5.69 Update</h2>
+                <h2>🎉 v1.5.70 Update</h2>
 <ul>
-    <li>✨ <b>GPT-6 Sol and Luna Support</b><br>
-        - Choose GPT-6 Sol or GPT-6 Luna in Inline AI and Create with AI through ChatGPT sign-in or an OpenAI API key.<br>
+    <li>✨ <b>Use OnText Without Selecting Text</b><br>
+        - Choose Clipboard First in General settings.<br>
+        - Open the panel with your copied content when no text is selected.<br>
+    </li>
+    <li>✨ <b>Run Inline AI Presets from Actions</b><br>
+        - Run a saved Inline AI prompt directly from the action panel, and create these actions with Create with AI.<br>
+    </li>
+    <li>🚀 <b>Faster, More Reliable Input</b><br>
+        - Improved panel focus and cursor-word capture, with fixes for Chrome, Safari, Word, VS Code, Notion, Obsidian, Preview, and Warp.<br>
+    </li>
+    <li>🔧 <b>Smoother Action Attachments</b><br>
+        - The action picker focuses Search actions as soon as it opens and closes automatically after attaching an action.<br>
     </li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.69.zip" 
-                sparkle:version="94" 
-                sparkle:shortVersionString="1.5.69" 
-                sparkle:edSignature="YHoBj+oqgOJ+elKD+kyprjfu33IJ631SMBzHlzgCrcFq8wXtG/M9QDbRtBTrM8/5HMyiA5E6YiWIpHSQgNghAw=="
-                length="24475345"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.70.zip" 
+                sparkle:version="95" 
+                sparkle:shortVersionString="1.5.70" 
+                sparkle:edSignature="qsMTpm+45IeaFpsvMVfOBAq4yiCIzAUUhFflUgYo37Sot1mKDQhQFtXr54h7YwBoHHPjdWLheuzkDUC9Dt6VBw=="
+                length="24632421"
                 type="application/octet-stream" />
         </item>
     </channel>
