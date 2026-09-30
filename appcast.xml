@@ -3,27 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.72</title>
-            <pubDate>Wed, 30 Sep 2026 21:19:51 +0000</pubDate>
+            <title>Version 1.5.73</title>
+            <pubDate>Wed, 30 Sep 2026 22:13:13 +0000</pubDate>
             
-            <sparkle:version>97</sparkle:version>
+            <sparkle:version>98</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.72</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.73</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎨 v1.5.72 Update</h2>
+                <h2>🎨 v1.5.73 Update</h2>
 <ul>
-    <li>💄 Improved UI consistency across Settings, Inline AI, Create with AI, and the Action Library.</li>
+    <li>💄 Improved spacing for Show Keymap and Columns per Row in Actions settings.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.72.zip" 
-                sparkle:version="97" 
-                sparkle:shortVersionString="1.5.72" 
-                sparkle:edSignature="1I1M3FpjlQnP4aDBqVSS6EC4jHe5QR8CR7uNf3eua9vSUHv2lMWSTThoWINqG0+iggIwIVmdQr5rLqOp6iw0Cg=="
-                length="24771769"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.73.zip" 
+                sparkle:version="98" 
+                sparkle:shortVersionString="1.5.73" 
+                sparkle:edSignature="wdE3Zdv7zLditrzJisa1UxQTe2xbOK+Qoq56lSrh57BLSacoXWi90MYacDbYkt7Hx41qJJdEHjfWPH+xVFp5Dw=="
+                length="24773702"
                 type="application/octet-stream" />
         </item>
     </channel>
