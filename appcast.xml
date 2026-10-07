@@ -3,27 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.73</title>
-            <pubDate>Wed, 30 Sep 2026 22:13:13 +0000</pubDate>
+            <title>Version 1.5.74</title>
+            <pubDate>Wed, 07 Oct 2026 08:48:28 +0000</pubDate>
             
-            <sparkle:version>98</sparkle:version>
+            <sparkle:version>99</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.73</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.74</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎨 v1.5.73 Update</h2>
+                <h2>🎨 v1.5.74 Update</h2>
 <ul>
-    <li>💄 Improved spacing for Show Keymap and Columns per Row in Actions settings.</li>
+    <li>🛠️ Fixed input background colors in Inline AI and Add Correction when switching between light and dark modes.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.73.zip" 
-                sparkle:version="98" 
-                sparkle:shortVersionString="1.5.73" 
-                sparkle:edSignature="wdE3Zdv7zLditrzJisa1UxQTe2xbOK+Qoq56lSrh57BLSacoXWi90MYacDbYkt7Hx41qJJdEHjfWPH+xVFp5Dw=="
-                length="24773702"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.74.zip" 
+                sparkle:version="99" 
+                sparkle:shortVersionString="1.5.74" 
+                sparkle:edSignature="3Zswns5e0qPEcB0R7VCR1SurH/7L80IzsFhsC0WQJbKSUhneW9jdXe5fDtJq5Ry35iQLCf+JHcmlacW8/m4VBg=="
+                length="24775555"
                 type="application/octet-stream" />
         </item>
     </channel>
