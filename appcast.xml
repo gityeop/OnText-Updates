@@ -3,27 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.74</title>
-            <pubDate>Wed, 07 Oct 2026 08:48:28 +0000</pubDate>
+            <title>Version 1.5.75</title>
+            <pubDate>Sat, 17 Oct 2026 13:45:52 +0000</pubDate>
             
-            <sparkle:version>99</sparkle:version>
+            <sparkle:version>100</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.74</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.75</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>🎨 v1.5.74 Update</h2>
+                <h2>✨ v1.5.75 Update</h2>
 <ul>
-    <li>🛠️ Fixed input background colors in Inline AI and Add Correction when switching between light and dark modes.</li>
+    <li>✍️ Inline AI Prompt actions can now type the answer straight into your text field. Turn on <strong>Type Result Directly</strong> in the action's Output setting to skip the Inline AI panel.</li>
+    <li>✨ A small indicator next to the cursor shows while AI is thinking or typing. Press Esc to stop.</li>
+    <li>📋 If you switch to another app while AI is typing, OnText stops typing and copies the full answer to the clipboard.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.74.zip" 
-                sparkle:version="99" 
-                sparkle:shortVersionString="1.5.74" 
-                sparkle:edSignature="3Zswns5e0qPEcB0R7VCR1SurH/7L80IzsFhsC0WQJbKSUhneW9jdXe5fDtJq5Ry35iQLCf+JHcmlacW8/m4VBg=="
-                length="24775555"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.75.zip" 
+                sparkle:version="100" 
+                sparkle:shortVersionString="1.5.75" 
+                sparkle:edSignature="UiaaokxDJwtWDHmpnr/JLPMx/UjN9w7kOWSBB7lLYvwlr76G8BsN2oTwnAu3XiPi4CM1yw7CO03RqZgwh4MqAQ=="
+                length="24829662"
                 type="application/octet-stream" />
         </item>
     </channel>
