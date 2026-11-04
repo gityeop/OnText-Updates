@@ -3,31 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.76</title>
-            <pubDate>Mon, 02 Nov 2026 02:29:05 +0000</pubDate>
+            <title>Version 1.5.77</title>
+            <pubDate>Wed, 04 Nov 2026 07:09:59 +0000</pubDate>
             
-            <sparkle:version>101</sparkle:version>
+            <sparkle:version>102</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.76</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.77</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>✨ v1.5.76 Update</h2>
+                <h2>✨ v1.5.77 Update</h2>
 <ul>
-    <li>Follow-up Inline AI chats now retain the originally selected text.</li>
-    <li>Long Inline AI conversations summarize older messages while keeping the original text, full saved history, and recent exchanges available.</li>
-    <li>Direct typing results are saved in chat history with the source text and prompt, so you can reopen them and continue the conversation.</li>
-    <li>Improved Markdown tables, code blocks, quotes, and dividers, with readable quote colors in light and dark modes.</li>
-    <li>Moved previous chats into the chat title menu and added a compact preview of the selected text.</li>
+    <li>Improved the Attach Actions picker in Create with AI with roomier rows and fully visible emoji icons.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.76.zip" 
-                sparkle:version="101" 
-                sparkle:shortVersionString="1.5.76" 
-                sparkle:edSignature="KJ2XIvz/evX7OGC9pVKzqwlCznc9dPcCDXdFuk851KGqGfiIOVCM1dZlrevDaR5IrULEkYQqs2cQY4bpHvNvBQ=="
-                length="24904003"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.77.zip" 
+                sparkle:version="102" 
+                sparkle:shortVersionString="1.5.77" 
+                sparkle:edSignature="HaoJuPsv8V2jGMh+nQdCYXJwQaPtW09fHDoatRgNNyV2bcAXbXgtJTAv2ajdnF4AfXNVAtsLtx24BB4fI1tFBg=="
+                length="24919214"
                 type="application/octet-stream" />
         </item>
     </channel>
