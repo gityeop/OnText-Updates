@@ -3,28 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.78</title>
-            <pubDate>Mon, 09 Nov 2026 09:23:06 +0000</pubDate>
+            <title>Version 1.5.79</title>
+            <pubDate>Thu, 12 Nov 2026 07:34:47 +0000</pubDate>
             
-            <sparkle:version>103</sparkle:version>
+            <sparkle:version>104</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.78</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.79</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>✨ v1.5.78 Update</h2>
+                <h2>✨ v1.5.79 Update</h2>
 <ul>
-    <li>Choose Enter or ⌘Enter to send in General settings. Applies to Inline AI, prompt windows, and Create with AI. Use Shift+Enter for a new line when Enter sends.</li>
-    <li>Prompt windows now open and close faster.</li>
+    <li><strong>Fix an action right from the error window.</strong> Click <strong>Fix It</strong> to ask OnText to repair the action. When the fix is saved, the action briefly lights up green and is ready to try again. Press Esc to close the error window.</li>
+    <li><strong>Retry an answer without starting over.</strong> If an action asks you to try a different answer, the same input window comes back with what you typed. When you click <strong>Run Test</strong> in Create with AI, actions that need a text field try the app you were just using.</li>
+    <li><strong>Keep Settings where you put it.</strong> Settings opens within the screen and stays where you move it, even if part of the window is offscreen. The sidebar stays visible when you narrow it, so you can always drag it wider again.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.78.zip" 
-                sparkle:version="103" 
-                sparkle:shortVersionString="1.5.78" 
-                sparkle:edSignature="RWAar/PZTCNSoj0AnPs6a+ean9p8RF75EFEY9f+kmwenMTpmHbAuHr1Wz4vjODBDyYvhQBHDKyS6Q3366G7CBg=="
-                length="24931987"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.79.zip" 
+                sparkle:version="104" 
+                sparkle:shortVersionString="1.5.79" 
+                sparkle:edSignature="arlzbYLPEC55rQY8j5kzkP5RM59iMD7MwzFNlfR6LZ/hsb3hcwYnyABNnLP96wS8bStwwqQ2arqCaojwXcdhCQ=="
+                length="25121561"
                 type="application/octet-stream" />
         </item>
     </channel>
