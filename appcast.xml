@@ -3,30 +3,29 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.81</title>
-            <pubDate>Mon, 16 Nov 2026 08:46:40 +0000</pubDate>
+            <title>Version 1.5.82</title>
+            <pubDate>Wed, 18 Nov 2026 09:55:47 +0000</pubDate>
             
-            <sparkle:version>106</sparkle:version>
+            <sparkle:version>107</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.81</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.82</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>✨ v1.5.81 Update</h2>
+                <h2>✨ v1.5.82 Update</h2>
 <ul>
-    <li><strong>Fix It can switch an action from AppleScript to Shell Script</strong> when the repair needs a different interpreter. It saves the new action type and the repaired script together.</li>
-    <li>The floating panel stays open while <strong>Fix It</strong> is working, even when you click or scroll in another app.</li>
-    <li>Switching Settings tabs keeps the window size fixed. The sidebar opens at full width, and Actions scrolls without visible scrollbars.</li>
-    <li>Press <strong>⌘1–⌘4</strong> in Settings to switch between General, Actions, Inline AI, and License. Hold <strong>⌘</strong> to see the shortcuts in the sidebar.</li>
+    <li><strong>Quote Last Match</strong> — In a supported editor, put quotation marks around the text from the last match up to the cursor.</li>
+    <li><strong>Move Before Text</strong> — In a supported editor, move the cursor to the start of the last match before it. Both actions are available in the Action Library under Productivity.</li>
+    <li>Settings and AI Action Studio now highlight more controls when you hover or press them, including preset rows and Chat History.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.81.zip" 
-                sparkle:version="106" 
-                sparkle:shortVersionString="1.5.81" 
-                sparkle:edSignature="T1sJdXEaz48O4SqWKNmSh02Aouaifo4bynwOpEdGVv3EwEbkzrWExTqm5yeemX+DiXisFZ0rMtWl+6nTVyGEDg=="
-                length="25151161"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.82.zip" 
+                sparkle:version="107" 
+                sparkle:shortVersionString="1.5.82" 
+                sparkle:edSignature="KFKg6qsoKwp8fTNgB6bLontWGGy8jvECYH272QzVKH0NWERbsRvsueculr7+XI4Hup2k28fI94IO1W+ml7l2Dg=="
+                length="25230683"
                 type="application/octet-stream" />
         </item>
     </channel>
