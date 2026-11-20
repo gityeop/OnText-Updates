@@ -3,27 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.84</title>
-            <pubDate>Thu, 19 Nov 2026 12:13:58 +0000</pubDate>
+            <title>Version 1.5.85</title>
+            <pubDate>Fri, 20 Nov 2026 05:37:48 +0000</pubDate>
             
-            <sparkle:version>109</sparkle:version>
+            <sparkle:version>110</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.84</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.85</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>✨ v1.5.84 Update</h2>
+                <h2>✨ v1.5.85 Update</h2>
 <ul>
-    <li>In Codex, <strong>Move Before Text</strong> can now find a link by any part of its web address and move the cursor just before the link.</li>
+    <li><strong>Create with AI</strong> can now create an Inline AI preset and save it together with the action that runs it.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.84.zip" 
-                sparkle:version="109" 
-                sparkle:shortVersionString="1.5.84" 
-                sparkle:edSignature="WBggyakid6sTXRVkA+L2lyP+a/ZaA/WIOHOqDiOB80pA/CQpkKe4EB/ivqqUhNpMKn18pZxddygX3AVC8xl7BA=="
-                length="25249041"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.85.zip" 
+                sparkle:version="110" 
+                sparkle:shortVersionString="1.5.85" 
+                sparkle:edSignature="K+capsara9T/oPANswDL9cmHl7x11yYa60ItMEUJufixOqgPx20F2kBuoA/vitOgjhncLNCclbUHUULgVZwaBg=="
+                length="25279126"
                 type="application/octet-stream" />
         </item>
     </channel>
