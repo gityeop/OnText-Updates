@@ -3,27 +3,31 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.85</title>
-            <pubDate>Fri, 20 Nov 2026 05:37:48 +0000</pubDate>
+            <title>Version 1.5.86</title>
+            <pubDate>Tue, 24 Nov 2026 03:42:12 +0000</pubDate>
             
-            <sparkle:version>110</sparkle:version>
+            <sparkle:version>111</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.85</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.86</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>✨ v1.5.85 Update</h2>
+                <h2>✨ v1.5.86 Update</h2>
 <ul>
-    <li><strong>Create with AI</strong> can now create an Inline AI preset and save it together with the action that runs it.</li>
+    <li><strong>New way to buy Pro</strong> — OnText Pro is now sold through Paddle. New license keys are checked on your Mac, so Pro keeps working offline.</li>
+    <li><strong>Gumroad purchases</strong> — If you bought Pro on Gumroad, updating swaps your key for a new OnText license automatically. There is nothing to do.</li>
+    <li><strong>Action files</strong> — Import and export <code>.otaction</code> files from Settings → Actions → Action Files, or drop a file onto the Settings window.</li>
+    <li><strong>Action Marketplace</strong> — Get actions from ontext.dev/marketplace and import them into OnText in one step.</li>
+    <li><strong>Clearer failure notices</strong> — When an action fails, a short notice appears next to the cursor instead of an error window. Click Details to see the cause and use Fix It.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.85.zip" 
-                sparkle:version="110" 
-                sparkle:shortVersionString="1.5.85" 
-                sparkle:edSignature="K+capsara9T/oPANswDL9cmHl7x11yYa60ItMEUJufixOqgPx20F2kBuoA/vitOgjhncLNCclbUHUULgVZwaBg=="
-                length="25279126"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.86.zip" 
+                sparkle:version="111" 
+                sparkle:shortVersionString="1.5.86" 
+                sparkle:edSignature="SExCUk52siQk1+he3C6CjZaXvhBRbeMk3tlyLFzfgf1/hEcGWYpqd3xxvMFLx/+IB6IIlfE4yWCXlqBJKeB9Dw=="
+                length="25413391"
                 type="application/octet-stream" />
         </item>
     </channel>
