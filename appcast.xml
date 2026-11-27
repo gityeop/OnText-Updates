@@ -3,27 +3,27 @@
     <channel>
         <title>OnText Changelog</title>
         <item>
-            <title>Version 1.5.87</title>
-            <pubDate>Wed, 25 Nov 2026 07:38:10 +0000</pubDate>
+            <title>Version 1.5.88</title>
+            <pubDate>Fri, 27 Nov 2026 08:22:44 +0000</pubDate>
             
-            <sparkle:version>112</sparkle:version>
+            <sparkle:version>113</sparkle:version>
             
-            <sparkle:shortVersionString>1.5.87</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.88</sparkle:shortVersionString>
             
             <description>
                 <![CDATA[
-                <h2>✨ v1.5.87 Update</h2>
+                <h2>✨ v1.5.88 Update</h2>
 <ul>
-    <li><strong>Settings sidebar</strong> — Hovering over a row now highlights the same area as selecting it.</li>
+    <li><strong>iCloud license sync</strong> — Enter your Pro key on one Mac and your other Macs signed in to the same iCloud account become Pro on their next launch. Each Mac still uses one seat of your license.</li>
 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.87.zip" 
-                sparkle:version="112" 
-                sparkle:shortVersionString="1.5.87" 
-                sparkle:edSignature="t+jmORF76n9rQLDT4AjgV7FEGEiiQBB3wqcIHKX9psIkwLFEv5fj7lvEdOxK0Vp19FD7nGW33yzFQy7kml+XDQ=="
-                length="25423709"
+                url="https://gityeop.github.io/OnText-Updates/OnText_v1.5.88.zip" 
+                sparkle:version="113" 
+                sparkle:shortVersionString="1.5.88" 
+                sparkle:edSignature="p012p18yLEFH59W+1R8BG64XJrbu2ExFdZYCn/eywORJcYIXhyTpO/KtIxAL/GCWcaaek1ce7vbinc85FaMMBg=="
+                length="25461246"
                 type="application/octet-stream" />
         </item>
     </channel>
